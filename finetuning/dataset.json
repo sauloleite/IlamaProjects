@@ -788,5 +788,1790 @@
         "instruction": "Nomeie algumas espécies de macaco encontradas na região amazônica.",
         "input": "",
         "output": "Algumas espécies de macaco encontradas na região amazônica incluem o xauim (também conhecido como sagüim, sauim, soim, sonhim, massau, tamari e sagüi), e o guariba."
+    },
+    {
+        "instruction": "Explique a população indígena no Brasil durante a época do descobrimento.",
+        "input": "",
+        "output": "Na época do descobrimento, em 1500, estima-se que havia de 3 a 4 milhões de indígenas no Brasil. Algumas tribos fizeram acordos com os portugueses e foram utilizadas como mão de obra na exploração do pau-brasil, enquanto outras tribos foram aprisionadas e tornaram-se escravas, resultando em muitos combates, como a confederação dos tamoios, onde várias tribos se uniram para combater os portugueses. Dessa forma, o Brasil não foi descoberto, mas sim conquistado."
+    },
+    {
+        "instruction": "Descreva a atuação dos Jesuítas no Brasil em relação aos indígenas e aos negros.",
+        "input": "",
+        "output": "Os Jesuítas vieram para o Brasil no início da colonização e ajudaram a defender os índios da escravidão. No entanto, eles auxiliaram na introdução dos negros como escravos, recebendo inicialmente uma percentagem da venda dos escravos."
+    },
+    {
+        "instruction": "Qual foi a herança deixada pelos indígenas em relação ao vocabulário?",
+        "input": "",
+        "output": "Apesar de serem derrotados e até hoje serem negligenciados pelas autoridades, os indígenas no Brasil deixaram um amplo vocabulário que até hoje é utilizado."
+    },
+    {
+        "instruction": "Traduzir os seguintes termos indígenas do Tupi-Guarani para o português: Abaetê, Abaré, Abati, Acaí.",
+        "input": "",
+        "output": "Abaetê: pessoa boa, Abaré: amigo, Abati: milho, Acaí: fruta que chora; fruta de onde sai líquido."
+    },
+    {
+        "instruction": "Defina o termo 'caiçara' do vocabulário indígena.",
+        "input": "",
+        "output": "Caiçara refere-se a uma paliçada em torno de uma aldeia indígena, usada para proteção contra inimigos ou animais. Originalmente, o termo tupi caá-içara era usado para denominar as estacas colocadas ao redor de aldeias ou cercas feitas de galhos para cercar peixes. Hoje, 'caiçara' também é uma denominação para comunidades e indivíduos que vivem ao longo do litoral dos Estados de São Paulo, Paraná e Rio de Janeiro."
+    },
+    {
+        "instruction": "Defina o termo 'ipura' e seu uso pelos índios do interior paulista.",
+        "input": "ipura",
+        "output": "Ipura significa 'de dentro do mato'. Foi usado pelos índios do interior paulista para designar os colonizadores."
+    },
+    {
+        "instruction": "Qual é o significado do nome 'Camboriu'?",
+        "input": "Camboriu",
+        "output": "'Camboriu' significa 'rio onde corre o leite'."
+    },
+    {
+        "instruction": "Explique o significado de 'Cambuci'.",
+        "input": "Cambuci",
+        "output": "'Cambuci' significa 'pote'."
+    },
+    {
+        "instruction": "Qual é a origem e o significado do nome 'Cananéia'?",
+        "input": "Cananéia",
+        "output": "'Cananéia' foi registrado no diário de navegação da expedição como 'cananor' e posteriormente como 'cananéia'. Seu nome vem da índia Caniné, filha do Cacique Maratayama (Mara = mar, tayama = terra)."
+    },
+    {
+        "instruction": "Descreva o que significa 'Capanga'.",
+        "input": "Capanga",
+        "output": "'Capanga' é um tipo de bolsa utilizada para caçar ou viajar."
+    },
+    {
+        "instruction": "Explique o termo 'Capim' e suas características.",
+        "input": "Capim",
+        "output": "'Capim' significa 'erva qualquer'. Há uma grande variedade dessa planta no Brasil, pertencente à família das gramíneas e das ciperáceas, de folha miúda, mato fino, e folha delgada."
+    },
+    {
+        "instruction": "Qual é o significado de 'Capitinga'?",
+        "input": "Capitinga",
+        "output": "'Capitinga' significa 'de folha miúda branca'."
+    },
+    {
+        "instruction": "Explique o termo 'Capivara' e seu significado.",
+        "input": "Capivara",
+        "output": "'Capivara' significa 'o comedor de capim', referindo-se a um herbívoro."
+    },
+    {
+        "instruction": "Qual é a origem do termo 'Capoeira'?",
+        "input": "Capoeira",
+        "output": "'Capoeira' vem do tupi guarani 'co-poera', que significa 'roça velha' ou 'de mato velho, extinto'."
+    },
+    {
+        "instruction": "Descreva 'Capororora'.",
+        "input": "Capororora",
+        "output": "'Capororora' refere-se a uma variedade de anta."
+    },
+    {
+        "instruction": "Qual é o significado de 'Caracú'?",
+        "input": "Caracú",
+        "output": "'Caracú' é uma raça de gado."
+    },
+    {
+        "instruction": "Explique a origem e o significado de 'Caraguatatuba'.",
+        "input": "Caraguatatuba",
+        "output": "'Caraguatatuba' é um vocábulo tupi que, segundo Silveira Bueno, significa 'lugar de muitos caraguatás' ou 'mata de Caraguatas (gravatas)'."
+    },
+    {
+        "instruction": "Qual é a origem e o significado de 'Caraíba'?",
+        "input": "Caraíba",
+        "output": "'Caraíba' vem de 'Kará' e 'ib', significando sábio, inteligente. Inicialmente, o termo era usado para os pajés, mas depois foi usado para designar todos os homens brancos."
+    },
+    {
+        "instruction": "O que significa 'Caramuru'?",
+        "input": "Caramuru",
+        "output": "'Caramuru' significa, em tupi, 'Moreja', que é um peixe muito agressivo."
+    },
+    {
+        "instruction": "Explique o significado de 'Cari'.",
+        "input": "Cari",
+        "output": "'Cari' significa 'homem branco'."
+    },
+    {
+        "instruction": "Qual é a origem e o significado de 'Carioca'?",
+        "input": "Carioca",
+        "output": "'Carioca' vem do Tupi-Guarani: 'kari' = branco; 'oka' = casa. Significa 'Casa do branco' ou 'oriundo de acarioca, casa dos acaris (peixes)'. Refere-se a um rio que nascia no Corcovado."
+    },
+    {
+        "instruction": "O que é 'Catapora'?",
+        "input": "Catapora",
+        "output": "'Catapora' refere-se a fogo que brota."
+    },
+    {
+        "instruction": "Explique o termo 'Catete'.",
+        "input": "Catete",
+        "output": "'Catete' é derivado de 'caa-ete', significando mata cerrada."
+    },
+    {
+        "instruction": "Qual é o significado de 'Ceará'?",
+        "input": "Ceará",
+        "output": "'Ceará' significa 'canto da jandaia'."
+    },
+    {
+        "instruction": "Explique o termo 'Circum-Navegar'.",
+        "input": "Circum-Navegar",
+        "output": "'Circum-Navegar' significa 'dar a volta navegando'. Vem do Latim 'circum', que significa 'ao redor', mais 'navigari'."
+    },
+    {
+        "instruction": "Qual é o significado de 'Coroaci'?",
+        "input": "Coroaci",
+        "output": "'Coroaci' significa 'terra de frente para o sol'."
+    },
+    {
+        "instruction": "Explique o termo 'Cunhambebe' e suas diferentes interpretações.",
+        "input": "Cunhambebe",
+        "output": "'Cunhambebe' é derivado do termo tupi 'kunhãmbeba', que significa 'mulher achatada, sem seios, de seios muito pequenos', pela junção de 'kunhã' (mulher) e 'mbeba' (achatado). É uma alusão ao peito musculoso e desenvolvido de Cunhambebe. O escritor Eduardo Bueno, baseado em Teodoro Sampaio, diz que 'Cunhambebe' significa 'o gago' em tupi, mas essa etimologia é considerada fantasiosa por Eduardo de Almeida Navarro."
+    },
+    {
+        "instruction": "O que é 'Curare'?",
+        "input": "Curare",
+        "output": "'Curare' vem de 'urari', que significa veneno."
+    },
+    {
+        "instruction": "Descreva o significado de 'Curitiba'.",
+        "input": "Curitiba",
+        "output": "'Curitiba' vem do Tupi-Guarani: 'Curi' = pinhão; 'Tiba' = lugar. Significa 'lugar de muito pinhão'."
+    },
+    {
+        "instruction": "Qual é o significado de 'Curumim'?",
+        "input": "Curumim",
+        "output": "'Curumim' significa menino."
+    },
+    {
+        "instruction": "Explique o termo 'Cutia'.",
+        "input": "Cutia",
+        "output": "'Cutia' vem do Tupi-Guarani: 'a-coti' = indivíduo que se assenta para comer."
+    },
+    {
+        "instruction": "Qual é o significado de 'Cutucar'?",
+        "input": "Cutucar",
+        "output": "'Cutucar' vem do tupi guarani 'cutuca', que significa 'ferir' ou 'espetar'."
+    },
+    {
+        "instruction": "O que significa 'Emboaba'?",
+        "input": "Emboaba",
+        "output": "A palavra 'emboaba' significa, em tupi, 'pássaro de pés emplumados' e era usada pejorativamente para designar os forasteiros, pois eles utilizavam botas."
+    },
+    {
+        "instruction": "Explique o termo 'Entradas'.",
+        "input": "Entradas",
+        "output": "'Entradas' refere-se a expedições financiadas pelo governo."
+    },
+    {
+        "instruction": "Qual é o significado de 'Ereré'?",
+        "input": "Ereré",
+        "output": "'Ereré' refere-se a uma canoa dos marrecas."
+    },
+    {
+        "instruction": "Descreva a origem do termo 'Galpão'.",
+        "input": "Galpão",
+        "output": "'Galpão' vem do náhuatl 'calpulli', que significa 'sala' ou 'casa grande'."
+    },
+    {
+        "instruction": "Qual é o significado de 'Gentios'?",
+        "input": "Gentios",
+        "output": "No início do descobrimento, os portugueses se referiam aos habitantes da terra como 'gentios'. Somente anos depois foi adotado o nome 'índios'."
+    },
+    {
+        "instruction": "Explique o termo 'Goiás'.",
+        "input": "Goiás",
+        "output": "'Goiás' significa 'de raça igual'."
+    },
+    {
+        "instruction": "Qual é o significado de 'Gororoba'?",
+        "input": "Gororoba",
+        "output": "'Gororoba' vem do tupi guarani 'guara' e 'roba', que significam respectivamente 'árvore' e 'amargo'."
+    },
+    {
+        "instruction": "Descreva a origem e o significado de 'Grajaú'.",
+        "input": "Grajaú",
+        "output": "'Grajaú' refere-se a um pássaro que come."
+    },
+    {
+        "instruction": "Qual é a origem e o significado de 'Guaiuba'?",
+        "input": "Guaiuba",
+        "output": "'Guaiuba' significa 'bebida da lagoa'."
+    },
+    {
+        "instruction": "Descreva a origem e o significado de 'Guanabara'.",
+        "input": "Guanabara",
+        "output": "'Guanabara' significa 'seio do mar'."
+    },
+    {
+        "instruction": "O que significa 'Guaraciaba'?",
+        "input": "Guaraciaba",
+        "output": "'Guaraciaba' significa 'cabelo de fogo'."
+    },
+    {
+        "instruction": "Qual é o significado de 'Guarani'?",
+        "input": "Guarani",
+        "output": "'Guarani' significa 'guerreiro'."
+    },
+    {
+        "instruction": "Explique o termo 'Guarujá'.",
+        "input": "Guarujá",
+        "output": "'Guarujá' significa 'viveiro de guarus (peixes)'."
+    },
+    {
+        "instruction": "O que significa 'Guarulhos'?",
+        "input": "Guarulhos",
+        "output": "'Guarulhos' refere-se aos guarus (peixes)."
+    },
+    {
+        "instruction": "Descreva o significado do termo 'Guirá'.",
+        "input": "Guirá",
+        "output": "'Guirá' significa 'pássaros'."
+    },
+    {
+        "instruction": "Explicar a origem do nome de uma árvore brasileira.",
+        "input": "Ibirapiranga",
+        "output": "O nome Ibirapiranga vem do tupi, sendo composto por 'Ybirá', que significa árvore, e 'Pyrana', que significa vermelha. Refere-se ao pau-brasil."
+    },
+    {
+        "instruction": "Definir o significado do termo 'Iguaçu'.",
+        "input": "",
+        "output": "Iguaçu quer dizer 'água grande'; refere-se a um rio ou lago grande."
+    },
+    {
+        "instruction": "Descrever a origem do termo índios utilizado no Brasil.",
+        "input": "",
+        "output": "O termo 'índios' vem do rio Indo, localizado na Índia, que emprestou seu nome ao país. Nos manuscritos iniciais da descoberta do Brasil, os índios eram denominados de gentios."
+    },
+    {
+        "instruction": "Qual o significado de 'Ipanema'?",
+        "input": "",
+        "output": "Ipanema significa 'água ruim'."
+    },
+    {
+        "instruction": "O que significa 'Iracema'?",
+        "input": "",
+        "output": "Iracema tem origem no guarani, composto pelos elementos 'ira' (mel) e 'acema' (escorrer ou sair em grande quantidade). Literalmente, o nome Iracema significa 'saída do mel'."
+    },
+    {
+        "instruction": "Explique o que significa 'Itanhaém'.",
+        "input": "",
+        "output": "Há duas versões para a etimologia do nome Itanhaém, proveniente do tupi 'itá-nha'ẽ': uma afirma que signifique 'pedra que canta', e outra, 'pranto de pedra' ou 'pedra que chora'."
+    },
+    {
+        "instruction": "Qual a origem e o significado do nome 'José de Anchieta'?",
+        "input": "",
+        "output": "José de Anchieta nasceu em San Cristóbal de la Laguna, em Tenerife, ilha vulcânica no arquipélago das Canárias, Espanha. Embora tenha vivido a maior parte do tempo no Brasil, se considerava Basco. Foi um dos responsáveis pela introdução dos escravos negros no Brasil."
+    },
+    {
+        "instruction": "Definir o significado da palavra 'Membira' em língua indígena.",
+        "input": "Membira",
+        "output": "Filho ou filha."
+    },
+    {
+        "instruction": "Explicar o significado e a origem de 'Mongaguá'.",
+        "input": "Mongaguá",
+        "output": "É uma palavra indígena que significa 'água pegajosa'. Nome dado pelos índios guaranis que viviam às margens dos rios Mongaguá e Aguapéu."
+    },
+    {
+        "instruction": "Definir a palavra 'Moqueca' e sua origem.",
+        "input": "Moqueca",
+        "output": "Do tupi pokeka, que significa 'assado de peixes' ou moquém, como era chamada a grelha de madeira onde se assava o peixe."
+    },
+    {
+        "instruction": "Explicar quem era um 'Morubixaba' e sua origem etimológica.",
+        "input": "Morubixaba",
+        "output": "Do tupi morumbi'xawa, que significa 'chefe indígena'."
+    },
+    {
+        "instruction": "Descrever o significado de 'Morumbi' e sua origem.",
+        "input": "Morumbi",
+        "output": "Morro ou colina verde."
+    },
+    {
+        "instruction": "Definir 'Mutirão' e sua origem.",
+        "input": "Mutirão",
+        "output": "Do tupi guarani pitibõ, que significa 'ajudar'. Refere-se a uma reunião de pessoas em prol de uma construção ou colheita, na qual uns ajudam os outros."
+    },
+    {
+        "instruction": "Explicar o significado da palavra 'Navegação' e sua origem.",
+        "input": "Navegação",
+        "output": "Do latim navigatio, 'navegação', de navis, 'nau, navio, embarcação'."
+    },
+    {
+        "instruction": "Descrever a origem da frase 'Navegar é preciso, viver não é preciso'.",
+        "input": "Navegar é preciso, viver não é preciso.",
+        "output": "Frase registrada pelo historiador romano Plutarco na obra de Vida dos homens ilustres, e atribuída ao general romano Cneu Pompeu Magno. Ficou famosa nos versos do poeta italiano Francesco Plutarco e depois nos do português Fernando Pessoa."
+    },
+    {
+        "instruction": "Definir 'Oca' e sua origem.",
+        "input": "Oca",
+        "output": "Casa."
+    },
+    {
+        "instruction": "Definir 'Ocara' e sua origem.",
+        "input": "Ocara",
+        "output": "Praça."
+    },
+    {
+        "instruction": "Explicar o termo 'Oceano' e sua origem etimológica.",
+        "input": "Oceano",
+        "output": "Termo que tem origem no grego Ōkeanós, nome de um dos doze titãs, filhos de Úrano e de Gaia. A palavra passou depois ao latim como oceănus. Durante algum tempo, em latim e nas línguas europeias, usou-se o termo 'mar oceano' (mare oceanum em latim)."
+    },
+    {
+        "instruction": "Explicar por que o Oceano Pacífico recebeu esse nome.",
+        "input": "Oceano Pacífico",
+        "output": "O navegador português Fernão de Magalhães batizou o oceano de Pacífico em 1520, impressionado com a tranquilidade das águas. Na verdade, o dia era atípico, pois o Pacífico é mais perigoso do que o Atlântico."
+    },
+    {
+        "instruction": "Definir 'Pamonha' e sua origem.",
+        "input": "Pamonha",
+        "output": "Do tupi guarani apá-mimõia, que significa 'cozido e envolvido'."
+    },
+    {
+        "instruction": "Definir 'Pará' em tupi.",
+        "input": "Pará",
+        "output": "Rio."
+    },
+    {
+        "instruction": "Definir 'Paraíba' e sua origem.",
+        "input": "Paraíba",
+        "output": "Rio ruim (com pouca quantidade de peixe)."
+    },
+    {
+        "instruction": "Explicar o significado de 'Paraná' em tupi.",
+        "input": "Paraná",
+        "output": "Rio caudaloso ou grande rio como o mar."
+    },
+    {
+        "instruction": "Definir 'Paranaguaçu' e sua origem.",
+        "input": "Paranaguaçu",
+        "output": "Mar grande."
+    },
+    {
+        "instruction": "Descrever o significado de 'Paranapiacaba' e sua origem.",
+        "input": "Paranapiacaba",
+        "output": "Local de onde se vê o mar."
+    },
+    {
+        "instruction": "Definir 'Peba' em tupi.",
+        "input": "Peba",
+        "output": "Branco."
+    },
+    {
+        "instruction": "Explicar o que significa 'Pereba' em tupi.",
+        "input": "Pereba",
+        "output": "Do tupi guarani pere’wa, que significa 'ferida'."
+    },
+    {
+        "instruction": "Descrever a origem do nome 'Peros' dado pelos índios aos portugueses.",
+        "input": "Peros",
+        "output": "Nome dado pelos índios aos portugueses que chegaram em 1500, devido ao fato de muitos portugueses se chamarem Pero, como Pero Vaz de Caminha, escrivão que relatou a presença de índios na terra recém-descoberta."
+    },
+    {
+        "instruction": "Definir 'Peteca' e sua origem.",
+        "input": "Peteca",
+        "output": "Bater com a palma das mãos."
+    },
+    {
+        "instruction": "Explicar o significado e a origem de 'Pindorama'.",
+        "input": "Pindorama",
+        "output": "Terra das Palmeiras. Derivada do Tupy-Guarani, era o nome que os nativos chamavam as terras brasileiras quando do descobrimento pelas naus portuguesas comandadas por Pedro Álvares Cabral."
+    },
+    {
+        "instruction": "Definir 'Pipoca' e sua origem.",
+        "input": "Pipoca",
+        "output": "Do tupi guarani pira e poca, que significam 'pele rebentada' quando juntos."
+    },
+    {
+        "instruction": "Descrever o significado da palavra 'Pirá' em tupi.",
+        "input": "Pirá",
+        "output": "Peixe."
+    },
+    {
+        "instruction": "Explicar o que significa 'Piracema' em tupi.",
+        "input": "Piracema",
+        "output": "Saída dos peixes."
+    },
+    {
+        "instruction": "Explique o significado do termo 'Piratininga'.",
+        "input": "",
+        "output": "'Piratininga' pode significar peixe seco ou homem sem passado, como no caso de João Ramalho, que chegou do mar e cujo passado é desconhecido."
+    },
+    {
+        "instruction": "Qual o significado do termo 'Pitanga'?",
+        "input": "",
+        "output": "'Pitanga' significa árvore vermelha."
+    },
+    {
+        "instruction": "O que significa 'Poti' em tupi-guarani?",
+        "input": "",
+        "output": "'Poti' significa camarão em tupi-guarani."
+    },
+    {
+        "instruction": "Explique o significado de 'Ré'.",
+        "input": "",
+        "output": "'Ré' significa amigo."
+    },
+    {
+        "instruction": "Qual a atual cidade que foi chamada de 'Reritiba'?",
+        "input": "",
+        "output": "'Reritiba' é o antigo nome da cidade de Anchieta, no Espírito Santo."
+    },
+    {
+        "instruction": "Qual a importância histórica do porto de São Vicente para os navegantes portugueses?",
+        "input": "",
+        "output": "O porto de São Vicente foi fundamental para os primeiros navegantes portugueses. Embora desabitado, servia como ponto de parada para reabastecimento das naus com água e provisões. Devido à sua localização na mesma latitude do Cabo da Boa Esperança, era o ponto mais ao sul do continente americano onde se podia pisar em terra firme antes de atravessar o Atlântico novamente e contornar o Cabo das Tormentas rumo ao Oceano Índico."
+    },
+    {
+        "instruction": "Qual é o significado de 'Sapucaí' em tupi-guarani?",
+        "input": "",
+        "output": "'Sapucaí' significa 'rio do galo' ou 'rio que grita' em tupi-guarani."
+    },
+    {
+        "instruction": "O que significa 'Sergipe'?",
+        "input": "",
+        "output": "'Sergipe' significa rio dos siris."
+    },
+    {
+        "instruction": "Explique o termo 'Taba'.",
+        "input": "",
+        "output": "'Taba' se refere a um conjunto de malocas (casas)."
+    },
+    {
+        "instruction": "Descreva a 'Tacape' e seu uso.",
+        "input": "",
+        "output": "Tacape, do Tupi Guarani, significa ta-haste; acape-acampe-quebrar cabeça. Era uma arma valente de guerra usada pelos índios."
+    },
+    {
+        "instruction": "O que significa 'Tamuias' ou 'Tamoios'?",
+        "input": "",
+        "output": "'Tamuias' ou 'Tamoios' significa 'os mais antigos donos da terra, os primeiros', 'o mais velho, o dono da terra, o mais antigo'."
+    },
+    {
+        "instruction": "Qual é o significado histórico de 'Taprobana'?",
+        "input": "",
+        "output": "'Taprobana' era uma ilha ao sul da Índia, inicialmente chamada ilha do Rei Rawana (dip-Raawan), depois Ceilão (terra dos leões), e atualmente conhecida como Sri Lanka (ilha resplandecente)."
+    },
+    {
+        "instruction": "Explique o significado de 'Tapuia'.",
+        "input": "",
+        "output": "'Tapuia' significa servo ou escravo."
+    },
+    {
+        "instruction": "Descreva o significado do nome 'Tatuapé'.",
+        "input": "",
+        "output": "'Tatuapé' significa caminho de tatus."
+    },
+    {
+        "instruction": "Quem foi 'Tibiriça'?",
+        "input": "",
+        "output": "'Tibiriça' era um principal da terra."
+    },
+    {
+        "instruction": "Qual é o significado de 'Tietê'?",
+        "input": "",
+        "output": "'Tietê' significa rio profundo."
+    },
+    {
+        "instruction": "O que significa 'Tijuca'?",
+        "input": "",
+        "output": "'Tijuca' significa pântano, lama, atoleiro."
+    },
+    {
+        "instruction": "Explique o termo 'Tocaia'.",
+        "input": "",
+        "output": "'Tocaia' é uma casinha ou cercado onde os índios se escondiam para surpreender um inimigo."
+    },
+    {
+        "instruction": "Qual é o significado de 'Tucano' em tupi-guarani?",
+        "input": "",
+        "output": "'Tucano', do Tupi-Guarani: tu-can, significa que bate forte."
+    },
+    {
+        "instruction": "Explique a origem e o significado do termo 'Tupi'.",
+        "input": "",
+        "output": "'Tupi' pode ter duas interpretações: 'tu-u'pi' ('o pai supremo'), derivando em 'ty'pi' ou 'tu'pi' ('os da primeira geração'), ou como sinônimo de 'tupã' ('deus, pai altíssimo'), de 'tu'pana' ('a pancada estrondeante', ou seja, o trovão)."
+    },
+    {
+        "instruction": "Quem são os 'Tupinambá'?",
+        "input": "",
+        "output": "'Tupinambá' são descritos pelo historiador Teodoro Sampaio como 'filho do pai supremo', ou seja, a geração do progenitor."
+    },
+    {
+        "instruction": "O que significa 'Tupiniquins'?",
+        "input": "",
+        "output": "'Tupiniquins' vem da expressão 'tupin-i-ki', significando 'tupi ao lado, vizinho lateral', ou de 'tupinã-ki', significando 'tribo colateral, o galho dos tupis'."
+    },
+    {
+        "instruction": "Explique o termo 'Tuxaua'.",
+        "input": "",
+        "output": "'Tuxaua', do tupi 'tuwi'xawa', significa capitão ou qualquer pessoa que tiver mando."
+    },
+    {
+        "instruction": "Qual é o significado de 'Ubá'?",
+        "input": "",
+        "output": "'Ubá' significa canoa."
+    },
+    {
+        "instruction": "Explique o nome 'Ubatuba' e sua origem.",
+        "input": "",
+        "output": "'Ubatuba' significa 'lugar com muita cana do tipo flecha' ou 'lugar de canoas' (uba= cana + tuba= sufixo de abundância, muito)."
+    },
+    {
+        "instruction": "Qual é o significado de 'Uberaba'?",
+        "input": "",
+        "output": "'Uberaba' significa água cristalina."
+    },
+    {
+        "instruction": "O que é 'Ujá'?",
+        "input": "",
+        "output": "'Ujá' é um ornamento em formato de touca que é colocado na cabeça."
+    },
+    {
+        "instruction": "Explique o significado de 'Urubu'.",
+        "input": "",
+        "output": "'Urubu' vem do tupi guarani 'uru' e 'bu', que significam, respectivamente, 'ave grande' e 'negro'."
+    },
+    {
+        "instruction": "Explique a origem e objetivos do 'Minidicionário Ilustrado Guarani-português'.",
+        "input": "",
+        "output": "O 'Minidicionário Ilustrado Guarani-português' é resultado dos projetos de extensão e pesquisa intitulados 'Minidicionário Ilustrado Guarani-português' e 'Glossário Indígena guarani/português: uma proposta de preservação e divulgação da arte e cultura guarani'. Estes projetos foram desenvolvidos pelo Instituto Federal de Santa Catarina (IFSC) câmpus Araranguá e o Laboratório de Experimentação Remota (RExLab) da Universidade Federal de Santa Catarina do câmpus Araranguá, financiados pelos editais 2021-PROEX 50/IFSC e 02/2020/PROPPI/IFSC."
+    },
+    {
+        "instruction": "Mencione os responsáveis pela coordenação e pelo projeto gráfico do 'Minidicionário Ilustrado Guarani-português'.",
+        "input": "",
+        "output": "A coordenação do projeto foi realizada por Jaqueline Josiwana Steffens da Rocha, e o projeto gráfico foi desenvolvido por Jaqueline Josiwana Steffens da Rocha, Sandro Lumertz Hendler e Natália da Silva Martins."
+    },
+    {
+        "instruction": "Dê detalhes sobre os colaboradores e autores do 'Minidicionário Ilustrado Guarani-português'.",
+        "input": "",
+        "output": "Os textos e a tradução foram feitos por Adylson Acosta, com colaboradores como Cristina Isabel Acosta, Simone Meister Sommer Bilessimo, Juarez Bento da Silva e Angela Paula Drawanz Götzke. Os desenhos foram realizados por alunos do 1º ao 9º ano da Escola Indígena Nhu Porã, Torres/RS. A obra é intitulada 'Minidicionário Mbya Guarani - Aldeia Indígena Nhu Porã Volume 1', lançada em 2022 com ISBN 978-65-00-43764-5."
+    },
+    {
+        "instruction": "Descreva a licença sob a qual o 'Minidicionário Ilustrado Guarani-português' foi publicado.",
+        "input": "",
+        "output": "Todo o conteúdo do 'Minidicionário Ilustrado Guarani-português', salvo ressalvas, é publicado sob a licença Creative Commons Atribuição - Uso Não Comercial - Partilha nos Mesmos Termos 3.0 Não adaptada."
+    },
+    {
+        "instruction": "Traduzir a saudação do prefácio 'Aguyjevete paven'in!'.",
+        "input": "",
+        "output": "Aguyjevete a todos!"
+    },
+    {
+        "instruction": "Descreva o objetivo do projeto mencionado na fala de Adilson Acosta.",
+        "input": "",
+        "output": "O projeto foi desenvolvido pensando nas futuras gerações da comunidade Mbya Guarani, com o objetivo de fortalecer a cultura, a linguagem e a escrita indígena. Ele visa contribuir para a preservação da língua guarani falada na comunidade, por meio da criação de um minidicionário escrito em Língua Mbya Guarani e traduzido para o português."
+    },
+    {
+        "instruction": "Explique a importância do minidicionário para a comunidade Mbya Guarani.",
+        "input": "",
+        "output": "O minidicionário é muito importante para a comunidade Mbya Guarani porque nossos antepassados não tinham o hábito de registrar seus conhecimentos por meio da escrita. Ele fortalece a cultura, a linguagem e a escrita indígena, sendo uma ferramenta que ficará disponível tanto para membros da comunidade quanto para outras pessoas interessadas em conhecer a cultura Mbya Guarani."
+    },
+    {
+        "instruction": "Relate a reação das crianças indígenas ao participarem do projeto do minidicionário.",
+        "input": "",
+        "output": "Todas as crianças ficaram muito felizes em participar desse projeto. O minidicionário inclui desenhos feitos pelos próprios alunos indígenas, aumentando ainda mais seu engajamento e satisfação com o trabalho."
+    },
+    {
+        "instruction": "Descreva a história e os desafios enfrentados pelos povos indígenas conforme mencionados no prefácio.",
+        "input": "Prefácio",
+        "output": "Historicamente, os povos indígenas sofreram um processo de aculturação, miscigenação e marginalização. Em meio a inúmeros problemas, é cada vez menos comum o hábito de falar a língua originária de suas tribos. No entanto, muitas lideranças indígenas buscam alternativas para amenizar a perda cultural que vêm passando."
+    },
+    {
+        "instruction": "Identifique a localização da Tribo Nhu Porã da etnia Mbya Guarani e a sua parceria no projeto.",
+        "input": "",
+        "output": "A Tribo Nhu Porã da etnia Mbya Guarani está situada no município de Torres, no estado do Rio Grande do Sul. Ela participou do projeto em parceria, que teve como objetivo contribuir para a preservação da língua guarani falada na comunidade."
+    },
+    {
+        "instruction": "Descrever o projeto educacional realizado junto aos alunos da escola da aldeia.",
+        "input": "",
+        "output": "O projeto educacional foi realizado com alunos do 1º ao 9º ano do ensino fundamental da escola da aldeia, em parceria com o professor indígena de Arte e Cultura Guarani. Foram conduzidas oficinas teórico/práticas onde os alunos criaram ilustrações baseadas em conteúdos artísticos e culturais da tribo. As ilustrações foram registradas em guarani e português para a criação de um minidicionário que poderá ser usado como ferramenta de estudo nas aulas de Arte e Cultura Guarani, contribuindo para a preservação e valorização da língua e cultura Guarani."
+    },
+    {
+        "instruction": "Liste as letras do Alfabeto Mbya Guarani mencionadas no texto.",
+        "input": "",
+        "output": "A, MB, ND, E, G, H, I, J, K, M, N, O, P, Q, R, T, U, V, X, W, Y"
+    },
+    {
+        "instruction": "Traduza as seguintes palavras do guarani para o português: APYKAXU, AVA, ARANDU.",
+        "input": "",
+        "output": "APYKAXU - pombo, AVA - menino, ARANDU - sabedoria"
+    },
+    {
+        "instruction": "Qual é o objetivo do minidicionário ilustrado criado no projeto?",
+        "input": "",
+        "output": "O minidicionário ilustrado visa contribuir para a documentação e preservação da língua Guarani e pode ser utilizado como ferramenta de estudo nas aulas de Arte e Cultura Guarani da escola da comunidade. O projeto busca fomentar o uso e valorização da língua entre os alunos e familiares da aldeia e promover o reconhecimento desses saberes por parte dos não indígenas."
+    },
+    {
+        "instruction": "Explique a tradição dos avós indígenas em relação às crianças.",
+        "input": "",
+        "output": "Antigamente, nossos avós faziam armadilhas para pegar pombo para as crianças comerem."
+    },
+    {
+        "instruction": "Liste verbos que começam com a letra 'A' em guarani.",
+        "input": "",
+        "output": "AJAU, AIPOU, AJAPYXAKA, AJEPO PETE, ANHEPYXANGA, AJATY, AMOIPORÃ, APOI, AMBOJEVY, AGUYJEVETE, AMOMBE'UTA, ANHEMONDYI, AVAXI."
+    },
+    {
+        "instruction": "Liste substantivos que começam com a letra 'A' em guarani.",
+        "input": "",
+        "output": "AO (roupa), AXA (machado), AVAXI (milho), AGUARA'I (lobo), ANGARA'I (lobo), ARAXA (goiaba), AJAKA (balaio), ARAPAXAI (arara)."
+    },
+    {
+        "instruction": "Descreva a importância do milho para os indígenas.",
+        "input": "",
+        "output": "O milho é a receita principal dos indígenas desde sempre. Eles fazem algumas comidas diferentes, como farinha e pamonha."
+    },
+    {
+        "instruction": "Explique o significado de 'ANGUJA' no contexto fornecido.",
+        "input": "",
+        "output": "ANGUJA significa 'RATO'."
+    },
+    {
+        "instruction": "Diga a tradução da frase: 'XEE AJAYA TA XE A.'",
+        "input": "",
+        "output": "EU VOU CORTAR O MEU CABELO."
+    },
+    {
+        "instruction": "Explique o uso da palavra 'MBERU' em uma frase.",
+        "input": "",
+        "output": "MBERU significa 'MOSCA'. Um exemplo de frase seria: 'MBERU MA OMBO'A XEVAI TEMBI'U JAEJA RIVE VA'EKUE RE.', que traduzido para o português seria 'A MOSCA PÕE OVOS NA COMIDA QUE GUARDAM OU DEIXAM DE COMER.'"
+    },
+    {
+        "instruction": "Traduza a palavra 'ENXADA' para a língua fornecida no contexto.",
+        "input": "",
+        "output": "AXARAIE"
+    },
+    {
+        "instruction": "Liste três palavras da língua fornecida e seus significados em português.",
+        "input": "",
+        "output": "ANGUJA - RATO, MBIPYRETA - CENTOPÉIA, MBOPI - MORCEGO"
+    },
+    {
+        "instruction": "Como se diz 'COLAR' na língua fornecida?",
+        "input": "",
+        "output": "Não fornecido no texto."
+    },
+    {
+        "instruction": "Traduza a palavra 'REVÓLVER' para a língua fornecida.",
+        "input": "",
+        "output": "Não fornecido no texto."
+    },
+    {
+        "instruction": "Qual é o significado de 'MBY'ARAXY'?",
+        "input": "",
+        "output": "Não fornecido no texto."
+    },
+    {
+        "instruction": "Explique a palavra 'MBARAKAMIRIN'.",
+        "input": "",
+        "output": "MBARAKAMIRIN significa 'CHOCALHO'."
+    },
+    {
+        "instruction": "Quais são os significados de 'MBEPU' e 'MBYTA'?",
+        "input": "",
+        "output": "MBEPU significa 'PIADA' e MBYTA significa 'TRÊS'."
+    },
+    {
+        "instruction": "Liste os diferentes tipos de cobras mencionadas.",
+        "input": "",
+        "output": "Existem cobras venenosas e também não venenosas."
+    },
+    {
+        "instruction": "Traduzir e explicar a frase 'NDEROVA'.",
+        "input": "NDEROVA - SEU ROSTO NÃO TEM NÃO PODE NÃO DÓI SUA MÃE SEU ROSTO NÃO VEJO SEM GRAÇA SUA MÃO NÓS NÃO TROUXEMOS NÃO FIZ NÃO FIQUEI NÃO FUMO NÃO PEGUEI",
+        "output": "'NDEROVA' significa 'seu rosto'. Exemplos de uso em frases incluem: NDEROVA MA OIM REIPORU RIAE HAGUÃ AE MA. (Seu rosto existe para usar todo dia a cada minuto do mundo)."
+    },
+    {
+        "instruction": "Listar palavras guaranis que começam com 'ND'.",
+        "input": "",
+        "output": "NDEROVA (seu rosto), NDERYE (sua barriga), NDEJYVA (seu braço), NDEPY (teu pé), NDEKU'A (sua cintura), entre outras."
+    },
+    {
+        "instruction": "Listar palavras guaranis que começam com 'E'.",
+        "input": "",
+        "output": "EIRU (abelha), EJU (vir), EVO'I (minhoca), EJEVY (voltar), EJERURE (pedir), ENDU (sentir), EIPORUKA (emprestar)."
+    },
+    {
+        "instruction": "List words in Mbyá-Guarani starting with the letter 'E' and provide their translations.",
+        "input": "E",
+        "output": [
+            {
+                "word": "embopara",
+                "translation": "correr"
+            },
+            {
+                "word": "emoendy",
+                "translation": "acreditar"
+            },
+            {
+                "word": "eru",
+                "translation": "responder"
+            },
+            {
+                "word": "epy",
+                "translation": "atirar"
+            },
+            {
+                "word": "eipytyvon",
+                "translation": "escutar"
+            },
+            {
+                "word": "epita",
+                "translation": "fazer"
+            },
+            {
+                "word": "enhã-correr",
+                "translation": "brincar"
+            },
+            {
+                "word": "ei-mel",
+                "translation": "mel"
+            },
+            {
+                "word": "ero",
+                "translation": "responder"
+            },
+            {
+                "word": "embovai",
+                "translation": "correndo"
+            },
+            {
+                "word": "embopu",
+                "translation": "espanto, susto"
+            },
+            {
+                "word": "ejapyxaka",
+                "translation": "arrumar, consertar"
+            },
+            {
+                "word": "ejapo",
+                "translation": "fazer"
+            },
+            {
+                "word": "embovai",
+                "translation": "correndo"
+            },
+            {
+                "word": "enheovanga",
+                "translation": "não tenha pressa"
+            },
+            {
+                "word": "enhã",
+                "translation": "viu só?"
+            },
+            {
+                "word": "emondyi",
+                "translation": "espero"
+            },
+            {
+                "word": "emoatyrõ",
+                "translation": "é o momento"
+            },
+            {
+                "word": "ei",
+                "translation": "escutar"
+            },
+            {
+                "word": "ejapura heme",
+                "translation": "prestar atenção"
+            },
+            {
+                "word": "exapa",
+                "translation": "ele está na casa"
+            }
+        ]
+    },
+    {
+        "instruction": "Provide an example sentence using the word 'ei-mel' in Mbyá-Guarani.",
+        "input": "ei-mel",
+        "output": "Ei ma eiru kuery omono'on va'ekue ipoty'i gui."
+    },
+    {
+        "instruction": "What is the translation of the example sentence: 'Ei ma eiru kuery omono'on va'ekue ipoty'i gui.'",
+        "input": "",
+        "output": "O mel é produzido pelas abelhas que buscam através das flores."
+    },
+    {
+        "instruction": "List words in Mbyá-Guarani starting with the letter 'G' and provide their translations.",
+        "input": "G",
+        "output": [
+            {
+                "word": "gajo",
+                "translation": "galo"
+            },
+            {
+                "word": "guapya",
+                "translation": "cadeira"
+            },
+            {
+                "word": "guary",
+                "translation": "leão"
+            },
+            {
+                "word": "guavira",
+                "translation": "guabiroba"
+            },
+            {
+                "word": "guei'i",
+                "translation": "bezerro"
+            },
+            {
+                "word": "guapo'y",
+                "translation": "figueira"
+            },
+            {
+                "word": "guaki",
+                "translation": "cuíca"
+            },
+            {
+                "word": "goo py",
+                "translation": "ele(a) está na casa"
+            },
+            {
+                "word": "guaxu",
+                "translation": "grande,veado"
+            }
+        ]
+    },
+    {
+        "instruction": "Provide an example sentence using the word 'guapya' in Mbyá-Guarani.",
+        "input": "guapya",
+        "output": "Guapya ma oiko pave oiporu haguã oguapyahaguã."
+    },
+    {
+        "instruction": "What is the translation of the example sentence: 'Guapya ma oiko pave oiporu haguã oguapyahaguã.'",
+        "input": "",
+        "output": "A cadeira tem para todas as pessoas quando elas quiserem se sentar."
+    },
+    {
+        "instruction": "List words in Mbyá-Guarani starting with the letter 'H' and provide their translations.",
+        "input": "H",
+        "output": [
+            {
+                "word": "ha'i",
+                "translation": "mãe"
+            },
+            {
+                "word": "haxy",
+                "translation": "dor"
+            },
+            {
+                "word": "heta",
+                "translation": "muito"
+            },
+            {
+                "word": "henhoin",
+                "translation": "brotar"
+            },
+            {
+                "word": "hepy",
+                "translation": "caro"
+            },
+            {
+                "word": "hanho",
+                "translation": "só"
+            },
+            {
+                "word": "ha'eanho'in",
+                "translation": "sozinho"
+            },
+            {
+                "word": "hendy",
+                "translation": "luz"
+            },
+            {
+                "word": "hapo",
+                "translation": "raiz"
+            },
+            {
+                "word": "haxen",
+                "translation": "choro"
+            },
+            {
+                "word": "hexa",
+                "translation": "olhos"
+            }
+        ]
+    },
+    {
+        "instruction": "Liste alguns termos em Guarani Mbya relacionados ao corpo humano e objetos do cotidiano.",
+        "input": "",
+        "output": [
+            {
+                "termo": "HETYMA",
+                "significado": "PERNA"
+            },
+            {
+                "termo": "HI'A",
+                "significado": "CABELO"
+            },
+            {
+                "termo": "HU'Y",
+                "significado": "FLECHA"
+            },
+            {
+                "termo": "HY'AKUA",
+                "significado": "CHOCALHO"
+            },
+            {
+                "termo": "IJAPYXA",
+                "significado": "OUVIDO"
+            },
+            {
+                "termo": "INHAPEKUN",
+                "significado": "LÍNGUA"
+            },
+            {
+                "termo": "IJURU",
+                "significado": "BOCA"
+            },
+            {
+                "termo": "INAMBI",
+                "significado": "ORELHA"
+            }
+        ]
+    },
+    {
+        "instruction": "Explique como o povo Guarani Mbya utiliza as raízes em sua cultura.",
+        "input": "",
+        "output": "O povo Guarani Mbya utiliza as raízes de diversas plantas para a confecção de remédios tradicionais."
+    },
+    {
+        "instruction": "Traduza a palavra 'charmoso(a)' para o Guarani Mbya.",
+        "input": "",
+        "output": "IXUKO"
+    },
+    {
+        "instruction": "Forneça a tradução em Guarani Mbya das seguintes palavras: 'perdiz', 'bonito(a)', 'ouvido', 'língua', 'curva', 'costas', 'peitoral', 'braço'.",
+        "input": "",
+        "output": [
+            {
+                "palavra": "perdiz",
+                "tradução": "INAMBU"
+            },
+            {
+                "palavra": "bonito(a)",
+                "tradução": "IPORÃ"
+            },
+            {
+                "palavra": "ouvido",
+                "tradução": "IJAPYXA"
+            },
+            {
+                "palavra": "língua",
+                "tradução": "INHAPEKUN"
+            },
+            {
+                "palavra": "curva",
+                "tradução": "IKAREN"
+            },
+            {
+                "palavra": "costas",
+                "tradução": "IKUPE"
+            },
+            {
+                "palavra": "peitoral",
+                "tradução": "IPOXI'A"
+            },
+            {
+                "palavra": "braço",
+                "tradução": "IJYVA"
+            }
+        ]
+    },
+    {
+        "instruction": "Como o povo Guarani Mbya se refere a uma mulher grávida?",
+        "input": "",
+        "output": "IPURU'A"
+    },
+    {
+        "instruction": "Translate the following sentence from Guarani to Portuguese.",
+        "input": "INHAKUÃ MIVE REVE MBA'E RYRU OAXA XEYVY'I RE.",
+        "output": "UM CARRO PASSOU MUITO RÁPIDO PERTINHO DE MIM."
+    },
+    {
+        "instruction": "Translate the following sentence from Guarani to Portuguese.",
+        "input": "JAIXA'I MA MBYA KUERY RYMBA'I.",
+        "output": "PACA É UM ANIMAL SAGRADO PARA MBYA GUARANI."
+    },
+    {
+        "instruction": "What is the Guarani word for 'dog'?",
+        "input": "",
+        "output": "JAGUA"
+    },
+    {
+        "instruction": "What is the Guarani word for 'police'?",
+        "input": "",
+        "output": "JOPYÁ"
+    },
+    {
+        "instruction": "Translate the Portuguese word 'batata-doce' to Guarani.",
+        "input": "",
+        "output": "JETY"
+    },
+    {
+        "instruction": "Translate the Portuguese word 'juntos' to Guarani.",
+        "input": "",
+        "output": "JOAPYGUA"
+    },
+    {
+        "instruction": "Translate the Portuguese word 'cachorro' to Guarani.",
+        "input": "",
+        "output": "JAGUA"
+    },
+    {
+        "instruction": "Translate the Portuguese word 'lavar' to Guarani.",
+        "input": "",
+        "output": "JOJOPY"
+    },
+    {
+        "instruction": "Translate the Portuguese word 'defender' to Guarani.",
+        "input": "",
+        "output": "JERUXI"
+    },
+    {
+        "instruction": "Translate the Guarani word 'KURE' to Portuguese.",
+        "input": "",
+        "output": "PORCO"
+    },
+    {
+        "instruction": "Traduza a frase 'KUARAY MA OMOEXAKÃ YVY RUPA.' para o português.",
+        "input": "",
+        "output": "O SOL ILUMINA A TERRA."
+    },
+    {
+        "instruction": "Identifique o significado da palavra 'KUNHATAIN'.",
+        "input": "",
+        "output": "MOÇA"
+    },
+    {
+        "instruction": "Liste palavras com a letra 'k' junto com seus significados.",
+        "input": "",
+        "output": [
+            "KUARAY - SOL",
+            "KARO - CANECO",
+            "KA'YGUA - CUIA"
+        ]
+    },
+    {
+        "instruction": "Explique a expressão 'MANDUVI AVAXI KU'I REVE JA'U RAMO HEE MIVE!' em português.",
+        "input": "",
+        "output": "É MUITO GOSTOSO COMER AMENDOIM E MILHO SOCADO!"
+    },
+    {
+        "instruction": "Liste palavras com a letra 'm' junto com seus significados.",
+        "input": "",
+        "output": [
+            "MANDI'O - MANDIOCA",
+            "MYKUREN - GAMBÁ",
+            "MITAI - BEBÊ",
+            "MERO - MELÃO"
+        ]
+    },
+    {
+        "instruction": "Traduza a palavra 'NARÃ' para português.",
+        "input": "",
+        "output": "LARANJA"
+    },
+    {
+        "instruction": "Qual é o significado de 'NHANDU'?",
+        "input": "",
+        "output": "ARANHA"
+    },
+    {
+        "instruction": "Forneça o nome em Guarani para a palavra em português: 'ovelha'.",
+        "input": "ovelha",
+        "output": "ovexa'i"
+    },
+    {
+        "instruction": "Forneça a tradução do Guarani para 'caçador'.",
+        "input": "omarri kava'e",
+        "output": "caçador"
+    },
+    {
+        "instruction": "Traduza a frase 'eu moro na casa amarela' para o Guarani.",
+        "input": "eu moro na casa amarela",
+        "output": "oga iju va'e py ma xee xero."
+    },
+    {
+        "instruction": "Traduza a palavra 'casa de reza' para o Guarani.",
+        "input": "casa de reza",
+        "output": "opy'i"
+    },
+    {
+        "instruction": "Qual é o termo em Guarani para 'raio'?",
+        "input": "raio",
+        "output": "overa"
+    },
+    {
+        "instruction": "Como se diz 'chuva' em Guarani?",
+        "input": "chuva",
+        "output": "oky"
+    },
+    {
+        "instruction": "Qual é a palavra Guarani para 'papagaio'?",
+        "input": "papagaio",
+        "output": "parakau"
+    },
+    {
+        "instruction": "Traduza o termo 'banana' para o Guarani.",
+        "input": "banana",
+        "output": "pakoa"
+    },
+    {
+        "instruction": "Traduza a palavra 'cachimbo' para o Guarani.",
+        "input": "cachimbo",
+        "output": "petyngua"
+    },
+    {
+        "instruction": "Traduza a seguinte frase para o Guarani: 'da laranja se faz suco natural'.",
+        "input": "da laranja se faz suco natural",
+        "output": "narã rykue guima jajapo va'e aroka."
+    },
+    {
+        "instruction": "Explain the cultural significance of the palm tree to the Guaranis.",
+        "input": "Palm tree",
+        "output": "A palmeira é comida típica dos Guaranis, de folha de palmeira se faz ocas, casas."
+    },
+    {
+        "instruction": "Translate the following sentence into Guarani: 'The seal lives in the water and eats fish.'",
+        "input": "The seal lives in the water and eats fish.",
+        "output": "Rovo ma oiko yy py, ha'egui okaru pira re."
+    },
+    {
+        "instruction": "Translate the word 'seal' into Guarani.",
+        "input": "seal",
+        "output": "Rovo"
+    },
+    {
+        "instruction": "Translate the word 'violin' into Guarani.",
+        "input": "violin",
+        "output": "Rave'i"
+    },
+    {
+        "instruction": "Translate the word 'peach' into Guarani.",
+        "input": "peach",
+        "output": "Rurano"
+    },
+    {
+        "instruction": "Translate the word 'feather' into Guarani.",
+        "input": "feather",
+        "output": "Rague"
+    },
+    {
+        "instruction": "Translate the word 'rabbit' into Guarani.",
+        "input": "rabbit",
+        "output": "Tapixi"
+    },
+    {
+        "instruction": "Translate the following sentence into Guarani: 'The rabbit has big eyes and big ears.'",
+        "input": "The rabbit has big eyes and big ears.",
+        "output": "Tapixi ma hexa guaxu haegui inambi guaxu va'e."
+    },
+    {
+        "instruction": "Translate the word 'toucan' into Guarani.",
+        "input": "toucan",
+        "output": "Tukã"
+    },
+    {
+        "instruction": "Translate the word 'ant' into Guarani.",
+        "input": "ant",
+        "output": "Taý"
+    },
+    {
+        "instruction": "Translate the word 'owl' into Guarani.",
+        "input": "owl",
+        "output": "Urukure'a"
+    },
+    {
+        "instruction": "Liste exemplos de palavras com a letra 'U' em guarani.",
+        "input": "",
+        "output": "URU, URUTAU, URUKURE'A, URURA'Y, URUPEN, URUMBIXY, URURO, URU RUPI'A, URUVU, XAMPIREM, UPEPY OIN, UPEPY HO'A."
+    },
+    {
+        "instruction": "Explicar o propósito da criação de galinhas em guarani e português.",
+        "input": "",
+        "output": "URU MA ROGUEREKO RO'U HAGUÃ, HA'EGUI MA ROMBOAGUE HYAKUA. A GENTE CRIA GALINHA PARA COMER E TAMBÉM PARA USAR AS PENAS PARA ARTESANATOS."
+    },
+    {
+        "instruction": "Liste exemplos de palavras com a letra 'V' em guarani.",
+        "input": "",
+        "output": "VAKA, VETIRO, VOKO, VATA HAVE, VATA RAGUE, VARITA, VIXO, VOKO, VOXA, VORIXO, VARAKA, VETIRO, VA'EKUE."
+    },
+    {
+        "instruction": "Descrever a criação de animais em guarani e português.",
+        "input": "",
+        "output": "VIXO'I MA IKUAI KOO YVY PY NHANDERU OMBOJERA VAEKUE. ANIMAIS SÃO CRIAÇÃO DE DEUS NESSA TERRA."
+    },
+    {
+        "instruction": "Liste exemplos de palavras com a letra 'X' em guarani.",
+        "input": "",
+        "output": "XIVI, XANJAU, XARA'U, XAPY'AREI, XAPUKAI, XARAMBI, XEVOI, XEE, XIPA, XIIN, XIGYRE, XINHORA, XO'O, XUXU, XU'U, XONDARO."
+    },
+    {
+        "instruction": "Liste traduções de algumas palavras comuns do português para o guarani, começando com a letra 'X'.",
+        "input": "",
+        "output": "XANJAU - MELÂNCIA, XONDARO - GUERREIRO, XEVOI - CEBOLA, XIGYRE - TATU."
+    },
+    {
+        "instruction": "Descreva um animal que você observou recentemente.",
+        "input": "",
+        "output": "Eu vi um gato correndo atrás de um rato hoje."
+    },
+    {
+        "instruction": "Forneça exemplos de palavras em uma língua indígena e suas traduções.",
+        "input": "",
+        "output": [
+            {
+                "YPE": "PATO"
+            },
+            {
+                "YVYA": "TERRA"
+            },
+            {
+                "YVYRA": "ÁRVORE"
+            },
+            {
+                "YAKÃ": "LAGOA"
+            },
+            {
+                "YVI KUA REMDA": "CEMITÉRIO"
+            }
+        ]
+    },
+    {
+        "instruction": "Traduza a frase para o português: 'YY MA JAREKO KUAA VAERÂ, YY HE'YN REMA NDAJAIKOI.'",
+        "input": "",
+        "output": "A ÁGUA É VIDA, DEVEMOS CUIDAR DA ÁGUA."
+    },
+    {
+        "instruction": "Liste alguns números em uma língua indígena e suas traduções.",
+        "input": "",
+        "output": [
+            {
+                "PETEĨ": "UM"
+            },
+            {
+                "MOKOĨ": "DOIS"
+            },
+            {
+                "MBOAPY": "TRÊS"
+            },
+            {
+                "IRUNDY": "QUATRO"
+            },
+            {
+                "PETEĨ PO": "CINCO"
+            },
+            {
+                "PETEĨ PO IRUNDY": "NOVE"
+            },
+            {
+                "MOKOĨ PO": "DEZ"
+            }
+        ]
+    },
+    {
+        "instruction": "Traduza as seguintes cores para uma língua indígena: amarelo, azul, branco, vermelho, preto, verde, laranja, rosa.",
+        "input": "",
+        "output": [
+            {
+                "IJU": "AMARELO"
+            },
+            {
+                "HOVY": "AZUL"
+            },
+            {
+                "XIIN": "BRANCO"
+            },
+            {
+                "PYTÃ": "VERMELHO"
+            },
+            {
+                "HUUN": "PRETO"
+            },
+            {
+                "HOVY": "VERDE"
+            },
+            {
+                "NARÃ": "LARANJA"
+            },
+            {
+                "PITANGY": "ROSA"
+            }
+        ]
+    },
+    {
+        "instruction": "Explique a origem do nome 'Bira'.",
+        "input": "Bira",
+        "output": "'Bira' é uma variação de 'ybyrá', que significa árvore ou madeira. É uma forma abreviada do nome Ubiratã (de ybyrá + atã, madeira dura)."
+    },
+    {
+        "instruction": "Qual a origem do nome 'Birico' e seu significado?",
+        "input": "Birico",
+        "output": "De acordo com o Dicionário de Tupi Antigo do professor Navarro (2019), 'mbyryky' é um macaco da família dos cebídeos, o maior macaco do continente americano, de pelo amarelo, que vive em bandos. 'Birico' pode provir desse nome tupi. É o nome de um dos personagens do Boi de Reis."
+    },
+    {
+        "instruction": "Descreva o nome 'Buriti' e sua origem.",
+        "input": "Buriti",
+        "output": "'Buriti' é um nome comum a diversas palmeiras nativas da América. O nome provém do termo tupi 'moreɁ' (Lisboa, Hist. Anim. e Árv. do Maranhão)."
+    },
+    {
+        "instruction": "O que significa o nome 'Caboré'?",
+        "input": "Caboré",
+        "output": "'Caboré' é o nome de algumas pequenas espécies de corujas."
+    },
+    {
+        "instruction": "Explique a origem e o significado do nome 'Cauã'.",
+        "input": "Cauã",
+        "output": "O nome 'Cauã' provém do tupi antigo 'akaûã' ou 'kaûã'. É uma ave da família dos falconídeos, conhecida por seu canto, que ocorre geralmente no crepúsculo e no alvorecer. É predadora de cobras, inclusive peçonhentas."
+    },
+    {
+        "instruction": "Descreva o significado e a origem do nome 'Canindé'.",
+        "input": "Canindé",
+        "output": "'Canindé' é o nome de um tipo de arara da barriga amarela e também o deus da guerra na antiga mitologia Potiguara. Por ser o nome de uma arara, expressa bravura. Foi um nome dado pelos colonizadores e indígenas falantes de idiomas da família linguística tupi-guarani para Comatim, filho do Tarairiú Drárug, conhecido por Janduí, famoso na Guerra do Assu, denominada 'guerra dos bárbaros' pela historiografia oficial."
+    },
+    {
+        "instruction": "O que significa o nome 'Iara'?",
+        "input": "Iara",
+        "output": "'Iara' é o nome de uma divindade tupi, senhora das águas. '’Y' significa água e 'îara' significa dona, senhora, a que domina."
+    },
+    {
+        "instruction": "Descreva a origem e o significado do nome 'Jaciara'.",
+        "input": "Jaciara",
+        "output": "'Jaciara' significa senhora da lua. 'Îasy' significa lua; 'îára' ou 'jara' quer dizer senhora, senhor, a/o que preside, a/o que domina."
+    },
+    {
+        "instruction": "Explique a origem do nome 'Mandioca' e sua importância.",
+        "input": "Mandioca",
+        "output": "'Mandioca' vem do tupi antigo 'mani’oka', nome de planta cultivada há milênios e muito importante à alimentação indígena. Dessa planta se produz a farinha. Existe uma antiga lenda que fala de uma menina de pele clara chamada Mani que morreu ainda bebê e foi enterrada. No local onde foi sepultada (mani’oka, ou casa de Mani) nasceu a planta, que passou a ser utilizada na alimentação de diversos povos indígenas."
+    },
+    {
+        "instruction": "Qual o significado do nome 'Neci' em tupi antigo?",
+        "input": "Neci",
+        "output": "Em tupi antigo, 'ne' significa teu, tua e 'sy' significa mãe. De acordo com o Glossário Caboclo, 'Neci' quer dizer tua mãe."
+    },
+    {
+        "instruction": "Descreva a origem e o significado do nome 'Peteca'.",
+        "input": "Peteca",
+        "output": "'Petek' é um verbo transitivo que significa golpear, esbofetear, bater (com a mão espalmada), espalmar. Há o brinquedo originariamente produzido com palha de milho, fruto da grande festa das colheitas realizadas em junho e julho. Atualmente, existem diversos materiais e maneiras de produzir esse brinquedo tipicamente indígena. Não deixar a peteca cair significa não vacilar."
+    },
+    {
+        "instruction": "O que é 'Pitu'?",
+        "input": "Pitu",
+        "output": "'Pitu' é uma variedade de camarão grande de água doce."
+    },
+    {
+        "instruction": "Descreva o significado do nome 'Pindoba'",
+        "input": "Pindoba",
+        "output": "'Pindoba' é nome comum a diversas palmeiras do gênero 'Attalea'."
+    },
+    {
+        "instruction": "O que significa o termo 'Tatá' no tupi?",
+        "input": "Tatá",
+        "output": "'Tatá' significa fogo em tupi. O Padre José de Anchieta escreveu em um de seus poemas: 'nde ‘anga osapy satá', que significa 'queimou tua alma o fogo dele'. Daí provêm termos como 'catapora' (marcas do fogo), doença que produz marcas pela pele."
+    },
+    {
+        "instruction": "Explique o significado de 'boitatá'.",
+        "input": "",
+        "output": "Boitatá deriva de 'mba’e + tatá' (coisa de fogo) ou 'fogo do batatão', que significa 'coisa de fogo'. 'Mba’e' significa 'coisa' e 'tatá' significa 'fogo'."
+    },
+    {
+        "instruction": "Explique o significado de 'Ubirajara'.",
+        "input": "",
+        "output": "Ubirajara significa 'o que porta borduna (armamento de guerra)' ou 'o que porta pau'. 'Ybyrá' significa 'árvore, madeira' e 'îara' significa 'dono, mestre, senhor, o que segura, o que porta'."
+    },
+    {
+        "instruction": "Descreva as variedades de 'Cará' e 'Carcará'.",
+        "input": "",
+        "output": "Cará é um nome comum a certos peixes da família dos ciclídeos e uma variação de 'akará'. O nome também é utilizado para vários acidentes geográficos no Brasil. Carcará é o nome de duas aves da família dos falconídeos, comuns na América do Sul oriental, e também o nome de uma antiga liderança indígena."
+    },
+    {
+        "instruction": "Defina 'Mucúra' e 'Muçum'.",
+        "input": "",
+        "output": "Mucúra é um bicho mais conhecido como saruê e o termo também é usado para descrever uma pessoa feia. Muçum é um nome genérico para peixes da família dos simbrânquios, de água salgada ou doce, conhecidos por hábitos noturnos e corpo que parece uma serpente, sem nadadeiras, escamas ou bexiga natatória."
+    },
+    {
+        "instruction": "O que é 'Curimatã' e 'Jararaca'?",
+        "input": "",
+        "output": "Curimatã é o nome comum a diversos peixes da família dos caracídeos, com mais de vinte espécies no Brasil. A palavra possivelmente deriva de 'kurimã' (duro) + 'atã'. Jararaca, do tupi antigo 'îararaka', é a designação comum a vários répteis, ofídios da família dos crotalídeos."
+    },
+    {
+        "instruction": "Descreva o 'Mocó' e 'Peba'.",
+        "input": "",
+        "output": "Mocó é um mamífero roedor da família dos cavídeos (Kerodon rupestris), parecido com um coelho pequeno sem orelhas nem cauda. Peba é uma variação de tatu achatado, diferente do tatu-bola, e significa 'achatamento'. 'Peba' serve como adjetivo para 'achatado' e é o nome de um mamífero apreciado para caça no território indígena Mendonça."
+    },
+    {
+        "instruction": "O que é 'Piaba' e 'Piabuçu'?",
+        "input": "",
+        "output": "Piaba é o nome comum a várias espécies de peixes de rio da família dos caracídeos, caracterizados por serem pequenos. Piabuçu refere-se a certos peixes da mesma família, mas de porte avantajado ('piaba' + 'usu', significando piaba grande)."
+    },
+    {
+        "instruction": "Explique o que é 'Preá' e 'Punaré'.",
+        "input": "",
+        "output": "Preá, do tupi antigo 'apere’a', é o nome comum às espécies de mamíferos da família dos cavídeos, do gênero Cavia, cuja carne é muito consumida pelos povos indígenas. Punaré é um mamífero roedor da família dos echimídeos (Thrichomys apereoides), conhecido por sua grande cauda peluda e escura, habitando do litoral do Nordeste do Brasil até o Paraguai."
+    },
+    {
+        "instruction": "Quais são as informações sobre o 'Sabiá' e o 'Sanhaçu'?",
+        "input": "",
+        "output": "Sabiá é um nome genérico para certos pássaros da família dos turdídeos, apreciados por seu canto e amplamente distribuídos. Sanhaçu refere-se a pássaros traupídeos de médio porte, com nove espécies comumente reconhecidas, presentes na América Latina e Central. O nome deriva do tupi 'sa’i' (pássaros) + sufixo aumentativo '-usu'."
+    },
+    {
+        "instruction": "Descreva a 'Sariema'.",
+        "input": "",
+        "output": "Sariema, também conhecida como siriema, sariama ou seriema, é uma ave que vive em descampados e se alimenta de insetos e répteis."
+    },
+    {
+        "instruction": "Descreva o habitat e características do socó-boi.",
+        "input": "Socó-boi",
+        "output": "O socó-boi é uma ave que habita lugares pantanosos ou próximos a rios ou lagoas."
+    },
+    {
+        "instruction": "Defina o termo 'soim'.",
+        "input": "Soim",
+        "output": "Soim, também conhecido como sagui, é um nome genérico para pequenos símios de pelo cinzento-prateado e cauda longa, pertencentes à família dos hapalídeos e da família dos calitriquídeos."
+    },
+    {
+        "instruction": "Explique o que é o tacacá na fauna brasileira.",
+        "input": "Tacacá",
+        "output": "Tacacá é um termo utilizado para se referir a um animal semelhante ao timbu e também serve como adjetivo para algo feio. Em São Paulo e Minas Gerais, o gambá é conhecido como tacacá ou ticaca."
+    },
+    {
+        "instruction": "Descreva as características e hábitos do tamanduá.",
+        "input": "Tamanduá",
+        "output": "O tamanduá é um mamífero da família dos mirmecofagídeos, encontrado do México até a Argentina. Possui focinho longo e tubular, não tem dentes, possui língua longa e pegajosa e grandes garras nas patas anteriores, usadas principalmente para abrir formigueiros e cupinzeiros. Também é conhecido como papa-formigas ou urso-formigueiro."
+    },
+    {
+        "instruction": "Descreva os hábitos e características do tatu.",
+        "input": "Tatu",
+        "output": "O tatu é um mamífero da família dos dasipodídeos com várias espécies. Possui corpo coberto por uma couraça formada por placas justapostas. Vive em galerias abertas no chão, tem hábitos noturnos e cada ninhada possui 4 a 5 filhotes do mesmo sexo. É uma caça muito apreciada."
+    },
+    {
+        "instruction": "Explique o que é o tejo e quais são suas características principais.",
+        "input": "Tejo",
+        "output": "Tejo, do tupi antigo 'teîu', é um nome comum para os lagartos conhecidos também como tiú ou tiju."
+    },
+    {
+        "instruction": "Descreva o timbu e suas características.",
+        "input": "Timbu",
+        "output": "O timbu, também conhecido como gambá-de-orelha-branca, é uma espécie de gambá encontrada na Argentina, Bolívia, Brasil, Paraguai e Uruguai. É um animal generalista que habita diversos ambientes e pode ter comportamento terrestre ou arbóreo."
+    },
+    {
+        "instruction": "Descreva as características e comportamento do urubu-de-cabeça-preta.",
+        "input": "Urubu-de-cabeça-preta",
+        "output": "O urubu-de-cabeça-preta pertence à família dos catarídeos e é uma das espécies de abutres do Novo Mundo. É frequentemente observado realizando voos planados em correntes térmicas a grandes alturas e é ativo durante todo o dia."
+    },
+    {
+        "instruction": "Descreva o caju e o cajueiro.",
+        "input": "Caju",
+        "output": "O caju é o fruto do cajueiro, uma árvore da família das anacardiáceas originária do nordeste do Brasil. O cajueiro possui uma copa tortuosa e pode atingir de 5 a 12 metros de altura, chegando a 20 metros em condições muito favoráveis. Na natureza, existem dois tipos de cajueiro: o comum e o anão."
+    },
+    {
+        "instruction": "Descreva a planta guabiraba.",
+        "input": "Guabiraba",
+        "output": "A guabiraba, conhecida como gobiraba nas comunidades Mendonça, é uma planta frutífera que pode atingir de 40 cm a 2 metros de altura. Produz uma fruta roxa de gosto adocicado, bastante apreciada pelas famílias."
+    },
+    {
+        "instruction": "Descreva a planta conhecida como Juá.",
+        "input": "",
+        "output": "Juá é o fruto do juazeiro, também conhecido por joá, laranjeira-de-vaqueiro, juá-fruta, juá-espinho. É uma árvore típica do Semiárido brasileiro. Seus frutos, do tamanho de uma cereja, são comestíveis e utilizados para fazer geleias, além de possuírem uma casca rica em saponina. A raspa da casca pode ser utilizada para fazer um pó dental, auxiliando na higiene pessoal, e também produzir chá que limpa a cabeça e cura de feridas e seborreias."
+    },
+    {
+        "instruction": "Forneça uma descrição da árvore Jucá.",
+        "input": "",
+        "output": "Jucá é uma árvore comum no Nordeste brasileiro, frequentemente encontrada na caatinga, especialmente sobre solos argilo-arenosos, profundos e bem drenados. Pode atingir até 12 metros de altura, com uma copa alargada e baixa, possuindo um caule de até 40 centímetros de diâmetro, com cascas externas lisas e manchas castanho-amareladas ou castanho-claras. A floração ocorre de novembro a fevereiro, e a frutificação de julho a setembro. Suas flores são amarelas e os frutos são legumes indeiscentes, oblongos e lisos, medindo entre 5 e 9 centímetros, contendo cerca de 5 sementes castanho-escuras."
+    },
+    {
+        "instruction": "Quais são as características da planta Jurema?",
+        "input": "",
+        "output": "Jurema é uma planta da família das leguminosas, comum no Nordeste brasileiro, com propriedades psicoativas. A planta é importante para os indígenas por servir como princípio básico para preparação de um chá mágico religioso, utilizado por diversos povos nativos desde antes da chegada dos colonizadores europeus. Além de ser uma planta, a Jurema dá nome a uma religião (Jurema Sagrada), a uma entidade espiritual (Cabocla Jurema) e a uma bebida feita a partir das suas cascas e raízes."
+    },
+    {
+        "instruction": "Explique as características do Mandacaru e sua utilidade para os Mendonça.",
+        "input": "",
+        "output": "Mandacaru, também conhecido como cardeiro, floresce de outubro a janeiro e frutifica de fevereiro a julho. Seus frutos vermelhos medem de 3 a 12 centímetros de largura por 5 a 15 centímetros de comprimento. A polpa é branca com sementes pequenas e pretas. Os frutos do Mandacaru são conhecidos pelos Mendonça como Baba de Sapo. Historicamente, a madeira leve do Mandacaru era muito utilizada nas coberturas, portas, e janelas das casas das comunidades Mendonça. No entanto, atualmente essa madeira não é mais adquirida com essa finalidade pelo grupo familiar."
+    },
+    {
+        "instruction": "Descreva o Maracujá e suas propriedades.",
+        "input": "",
+        "output": "Maracujá é um fruto produzido pelas plantas do gênero Passiflora, da família Passifloraceae. A planta que o produz é conhecida como maracujazeiro, sendo espontânea em zonas tropicais e subtropicais da América. O suco do maracujá é famoso por suas propriedades soníferas e calmantes."
+    },
+    {
+        "instruction": "Descreva a planta Mororó ou pata-de-vaca.",
+        "input": "",
+        "output": "Mororó, também conhecido como pata-de-vaca (Bauhinia cheilantha), é uma leguminosa típica da Caatinga, principal ecossistema existente no semiárido brasileiro. É amplamente usada na medicina tradicional em diversas comunidades rurais e pode ser encontrada em quintais agroflorestais ou em áreas de mata."
+    },
+    {
+        "instruction": "Descreva o uso medicinal da Talisia esculenta.",
+        "input": "",
+        "output": "A Talisia esculenta, conhecida como pitomba, é usada na produção de remédios tradicionais com propriedades anti-inflamatórias, antidiabéticas, para distúrbios digestivos, reumatismo e como sedativo."
+    },
+    {
+        "instruction": "Forneça informações sobre a pitomba.",
+        "input": "",
+        "output": "A pitomba (Talisia esculenta), também chamada olho-de-boi, pitomba-da-mata e pitomba-de-macaco, é o fruto da pitombeira, uma árvore que pode atingir mais de 10 metros de altura. O fruto tem cerca de dois centímetros de diâmetro, cresce em cachos, é rico em vitamina C e pode ser consumido in natura ou usado na produção de licores e polpas. Diversos pássaros também se alimentam da pitomba."
+    },
+    {
+        "instruction": "Descreva a planta Mimosa caesalpiniifolia.",
+        "input": "",
+        "output": "O sabiá, cujo nome científico é Mimosa caesalpiniifolia, é uma árvore endêmica do Brasil, especialmente da região Nordeste, e característica das matas xerófilas da caatinga. Esta árvore pode atingir até 10 metros de altura, possui uma copa muito ramificada e densa, um tronco de até 30 centímetros de diâmetro que geralmente apresenta acúleos em indivíduos jovens, perdendo-os à medida que engrossa. A casca externa é fissurada e desprende-se em tiras delgadas, enquanto a casca interna é esbranquiçada."
+    },
+    {
+        "instruction": "Explique o que é a umburana e seu uso.",
+        "input": "",
+        "output": "Umburana é um gênero de árvores brasileiras da família das fabáceas, subfamília Faboideae, também conhecida como cumaru-do-ceará, cumaru-das-caatingas, imburana-de-cheiro, umburana e cerejeira. Ela é valorizada por suas propriedades medicinais e sua madeira é muito utilizada para esculturas, devido à fácil modelagem."
+    },
+    {
+        "instruction": "Dê detalhes sobre o umbuzeiro e seus frutos.",
+        "input": "",
+        "output": "O umbuzeiro (Spondias tuberosa, Arruda) é uma árvore frutífera de pequeno porte, com até sete metros de altura, copas baixas e amplas, e um tronco geralmente curto, torto e retorcido com até 50 centímetros de diâmetro. Sua casca é rugosa e acinzentada. Os frutos, chamados de umbus ou imbus, são ricos em vitamina C e possuem um sabor agridoce característico. Eles podem ser consumidos in natura ou usados para fazer doces, que são preparados cozinhando o fruto com açúcar."
+    },
+    {
+        "instruction": "Explique a origem e significado do nome Assu em tupi.",
+        "input": "",
+        "output": "Assu, originalmente em tupi antigo, é 'y-ûasu, que significa 'rio grande'. O município faz parte da região da população autóctone janduís, incluída no grupo étnico tapuia. Esses povos/comunidades falam línguas do tronco macrogê, como o brobó, que está sendo revitalizado pelos Xukuru do Ororubá em PE e pelos Tapuia de Tapará, de Macaíba – RN."
+    },
+    {
+        "instruction": "Descreva a palavra Cauassu em tupi.",
+        "input": "",
+        "output": "Cauassu significa 'matão' ou 'mato grande' em tupi. A palavra é composta por 'ka’a', que significa mato, e o sufixo aumentativo '-ûasu'. É o nome de um local próximo ao território indígena Mendonça."
+    },
+    {
+        "instruction": "Explain the meaning and origin of the name 'Catu'.",
+        "input": "",
+        "output": "Catu means 'good', 'the good', 'good thing', or 'kindness' in Tupi. It is the name given to the Poti-guara Eleutério indigenous community and also to the river that divides the indigenous territory in the municipalities of Canguaretama and Goianinha."
+    },
+    {
+        "instruction": "Describe the significance of the word 'Jacumã' in Tupi language.",
+        "input": "",
+        "output": "Jacumã, from the Tupi word 'antïgo ïakumã', refers to a scaffold used for catching fish. It can also mean a stake to which a canoe is tied while fishing or a long paddle that serves as a rudder in some boats. Jacumã is also the name of a beach in the municipality of Ceará-Mirim."
+    },
+    {
+        "instruction": "Provide a brief description of the municipality of Jandaíra and its etymology.",
+        "input": "",
+        "output": "Jandaíra is named after a type of bee (Melipona subnitida) that makes its nest or hive in hollow tree trunks. It is a municipality near João Câmara."
+    },
+    {
+        "instruction": "Who were the original inhabitants of the municipality of Jucurutu?",
+        "input": "",
+        "output": "The original inhabitants of the municipality of Jucurutu were the Jucurutu tribe, supposedly descendants of the Canindés and Janduís tribes. They lived in the Seridó region."
+    },
+    {
+        "instruction": "What is the origin and meaning of the word 'Macaíba'?",
+        "input": "",
+        "output": "Macaíba is the name of a species of palm tree (Acrocomia intumescens) known as the 'barriguda' palm. It is also the name of a municipality in the metropolitan region where the Tapuias from Tapará, indigenous Tarairiú, live."
+    },
+    {
+        "instruction": "Describe the municipality of Maxaranguape and its name origin.",
+        "input": "",
+        "output": "Maxaranguape means 'in the cove of the maçarandubas' in old writing. Maçaranduba is a common name for species of sapotaceous trees (Pouteria procera and Manilkara elata). It is a coastal municipality located 84 km from João Câmara."
+    },
+    {
+        "instruction": "What does 'Muriú' mean, and what is it known for?",
+        "input": "",
+        "output": "'Muriú' means 'river of the buris', referring to two species of palm trees, Allagoptera campestris and Allagoptera caudescens. Muriú is known for being a beach in the municipality of Ceará-Mirim."
+    },
+    {
+        "instruction": "Explain the meaning of the word 'Pajuçara' and identify its geographical relevance.",
+        "input": "",
+        "output": "Pajuçara, from the old Tupi 'upaba' (lagoon) + 'îusara' (JUÇARA, IUÇARA, a tall and slender palm from the Atlantic Forest): 'îeîsaru’ã' (palm heart of juçara). Pajuçara is a neighborhood in the northern zone of the capital of Potiguar, next to Amarelão Novo (a subdivision of the Lagoa Azul neighborhood, where families from the Mendonça people migrated in the 1980s)."
+    },
+    {
+        "instruction": "Identify and explain the etymology of the municipality name 'Parnamirim'.",
+        "input": "",
+        "output": "'Parnamirim' comes from the old Tupi 'paranã' (sea) + 'mirĩ' (small): 'small sea'. This name might also stem from the Língua Geral Amazônica where 'paraná' means river, suggesting the etymology as 'small river'. It is a municipality close to the city of Natal."
+    },
+    {
+        "instruction": "What is the origin and meaning of the name 'Pitangui'?",
+        "input": "",
+        "output": "Pitangui is derived from 'ybá-pytanga' meaning 'pitanga' or 'pitangueira' (Brazilian cherry tree) + '‘y' (river): 'river of the pitangueiras'. It is the name of a village and beach in the municipality of Extremoz."
+    },
+    {
+        "instruction": "Explique a origem e o significado de 'Sagi' no contexto indígena.",
+        "input": "",
+        "output": "Sagi é uma palavra de origem tupi antigo, formada pela junção de 'usá' (tipo de caranguejo) e 'îy' (rio), significando 'rio dos uçás'. Sagi é o nome de um território indígena do povo Potiguara, localizado no município de Baía Formosa."
+    },
+    {
+        "instruction": "Explique a origem e o significado de 'Potengi'.",
+        "input": "",
+        "output": "Potengi é uma palavra de origem tupi antiga, derivada de 'poƥ' (camarão) e '‘y' (rio), significando 'rio dos camarões'. O Rio Potengi é um dos principais cursos de água do Rio Grande do Norte."
+    },
+    {
+        "instruction": "Explique a origem e o significado de 'Taipu'.",
+        "input": "",
+        "output": "Taipu vem do tupi, combinando 'itá' (pedra), '‘y' (rio) e 'pu' (barulho), resultando em 'rio barulhento das pedras'. Taipu é um município próximo a João Câmara."
+    },
+    {
+        "instruction": "Qual é o significado da palavra 'Tinga' em tupi?",
+        "input": "",
+        "output": "Tinga significa branco ou claro."
+    },
+    {
+        "instruction": "Qual é o significado da palavra 'Tubiba' em tupi?",
+        "input": "",
+        "output": "Tubiba é o nome de uma abelha silvestre meliponídea (Scaptotrigona tubiba)."
+    },
+    {
+        "instruction": "Traduza as seguintes frases para a língua tupi: 'Bom dia', 'Boa tarde', 'Boa noite'.",
+        "input": "",
+        "output": "Bom dia: Tiá nde ko’ema\nBoa tarde: Tiá nde karuka\nBoa noite: Tiá nde pytuna"
+    },
+    {
+        "instruction": "Traduza 'Eu te amo' para a língua tupi.",
+        "input": "",
+        "output": "Ixé oroaûsub."
+    },
+    {
+        "instruction": "Traduza 'meu nome é Kanindé' para a língua tupi.",
+        "input": "",
+        "output": "Xe réra Kanindé."
+    },
+    {
+        "instruction": "Traduza 'Vamos!' para a língua tupi.",
+        "input": "",
+        "output": "T’îasó!"
+    },
+    {
+        "instruction": "Traduza 'Obrigado' para a língua tupi.",
+        "input": "",
+        "output": "Aîkugûab."
+    },
+    {
+        "instruction": "Descreva quantos números eram contados em Tupi Antigo e como eram representados.",
+        "input": "",
+        "output": "Os números em Tupi Antigo eram contados somente de um até quatro. A representação é a seguinte: 1 = oiepé, 2 = mokõi, 3 = mosapyr, 4 = oîoirundyk. Para contar quantidades maiores, utilizavam-se as partes do corpo de quem estivesse presente."
+    },
+    {
+        "instruction": "Traduza os números de 1 a 4 do idioma guarani.",
+        "input": "",
+        "output": "1 = peteĩ, 2 = mokõi, 3 = mbohapy, 4 = irundy."
+    },
+    {
+        "instruction": "Liste os números de 1 a 10 em guarani e suas traduções.",
+        "input": "",
+        "output": "1 = peteĩ, 2 = mokõi, 3 = mbohapy, 4 = irundy, 5 = po, 6 = poteĩ, 7 = pokõi, 8 = poapy, 9 = porundy, 10 = pa."
+    },
+    {
+        "instruction": "Explique a distribuição geográfica do idioma Guarani e seu status oficial.",
+        "input": "",
+        "output": "O guarani é um idioma parente do tupi antigo e é a língua oficial do Mercosul. É falado em vários países da América do Sul, incluindo Argentina, Bolívia, Brasil e Paraguai."
+    },
+    {
+        "instruction": "Como se diz 'fruto avermelhado' em Tupi Antigo?",
+        "input": "",
+        "output": "'Pitanga' em Tupi Antigo significa 'fruto avermelhado'. Vem de 'ybápytanga', que é a junção de 'ybá' (fruto) e 'pytang' (avermelhado)."
+    },
+    {
+        "instruction": "Descreva a representação das cores em Tupi Antigo.",
+        "input": "",
+        "output": "As cores em Tupi Antigo são representadas da seguinte forma: Îuba = Amarelo, Tinga = Branco, Úna = Preto, Oby = Azul ou Verde, Obyeté = Azul, Pintangi = Rosa, Pytanga = Avermelhado, Amarelado, Cinza (qualquer cor misturada com branco)."
+    },
+    {
+        "instruction": "Explique a importância histórica da língua Tupi Antigo no Brasil.",
+        "input": "",
+        "output": "O Tupi Antigo foi a língua que os marinheiros da armada de Cabral ouviram quando chegaram ao Brasil em 1500. Era falada em toda a costa do Brasil por muitos grupos indígenas, como os Potiguaras, Caetés, Tupinambás, Temiminós e Tabajaras. Sua gramática foi registrada pela primeira vez pelo Padre José de Anchieta na obra 'Arte de Gramática da Língua, mais Usada na Costa'."
+    },
+    {
+        "instruction": "Explique a importância histórica da língua Tupi no Brasil colonial.",
+        "input": "",
+        "output": "A língua Tupi foi, por séculos, a língua da maioria dos membros do sistema colonial brasileiro, incluindo índios, negros africanos e europeus, contribuindo para a unidade política do Brasil. O Tupi forneceu milhares de termos para a língua portuguesa do Brasil, nomeou milhares de lugares no país e esteve presente na literatura colonial, sendo uma referência fundamental para a identidade cultural do Brasil."
+    },
+    {
+        "instruction": "Descreva o papel da escola na preservação da língua Tupi.",
+        "input": "",
+        "output": "Para fortalecer a língua Tupi antiga e apresentar a educação escolar indígena no território Mendonça Potiguara, é essencial que a escola cumpra seu papel social na vida dos alunos, contribuindo de forma integrada e participativa. A escola deve fazer a ponte com a comunidade escolar, transformando o ambiente educacional e tornando-se uma ferramenta primordial para o fortalecimento da história e seus aspectos. Este trabalho objetiva contribuir significativamente para a preservação da língua materna."
+    },
+    {
+        "instruction": "Liste alguns autores e obras sobre a língua Tupi mencionados no texto.",
+        "input": "",
+        "output": "Autores e obras sobre a língua Tupi mencionados no texto incluem: \n1. NAVARRO, Eduardo. 'Método moderno de tupi antigo: a língua do Brasil dos primeiros séculos.' São Paulo: Global Editora, 2006.\n2. NAVARRO, Eduardo de Almeida. 'Dicionário de tupi antigo: a língua indígena clássica do Brasil.' São Paulo: Globo, 2013.\n3. SALES, Aucides. 'Glossário Caboclo: palavras tupi guarani usadas no português falado no Brasil.' Natal-RN: Manibu, 2010.\n4. SALES, Aucides. 'História e cultura indígena.' Natal-RN: Fundação José Augusto, 2012."
+    },
+    {
+        "instruction": "Resuma as considerações finais do projeto sobre a língua Tupi.",
+        "input": "",
+        "output": "O projeto objetiva fortalecer o Tupi antigo e apresentar a educação escolar indígena no território Mendonça Potiguara. Enfatiza a importância da escola em contribuir de forma integrada e participativa com a comunidade escolar para transformar o ambiente educacional. O trabalho espera contribuir significativamente para o fortalecimento da língua materna, incentivando a construção de um caminho mais solidário e esperançoso."
+    },
+    {
+        "instruction": "Explique a importância da diversidade cultural na sociedade.",
+        "input": "",
+        "output": "A diversidade cultural é um dos fatos mais belos do mundo, sinalizando vitalidade e riqueza da experiência humana. A perda dessa diversidade empobrece a humanidade."
+    },
+    {
+        "instruction": "Descreva a iniciativa da comunidade Mendonça Potiguara para ressuscitar o Tupi Antigo.",
+        "input": "Projeto de resgate do Tupi Antigo",
+        "output": "A comunidade Mendonça Potiguara do Rio Grande do Norte está se empenhando para ressuscitar o Tupi Antigo, a língua de seus antepassados. Esse esforço foi coletivamente realizado pelas escolas municipais locais, e inclui iniciativas de pesquisa, ensino e aprendizagem, envolvendo principalmente a turma da Educação de Jovens e Adultos (EJA IV). A retomada do Tupi Antigo é vista como uma forma de fortalecer a identidade cultural e enriquecer a diversidade linguística."
+    },
+    {
+        "instruction": "Qual é a data em que a carta de apoio ao renascimento do Tupi Antigo foi escrita?",
+        "input": "",
+        "output": "16 de outubro de 2020."
+    },
+    {
+        "instruction": "Qual foi a metodologia utilizada na elaboração do projeto de ensino da língua Tupi?",
+        "input": "",
+        "output": "A metodologia utilizada foi a de projetos, partindo do conhecimento prévio dos alunos para a formação do material. Isso permitiu a participação de todos os estudantes em temas gramaticais, históricos, conversacionais e musicais, começando pelo reconhecimento linguístico das palavras faladas pela comunidade até a formação de frases e prosas."
+    },
+    {
+        "instruction": "Explique a importância das línguas indígenas, segundo Aryon Dall'Igna Rodrigues.",
+        "input": "",
+        "output": "Aryon Dall'Igna Rodrigues discute a importância das línguas indígenas, destacando que elas são não apenas ferramentas de comunicação social, mas também meios pelos quais os seres humanos elaboram, codificam e conservam seu conhecimento do mundo. Ele explica que cada língua está profundamente ligada aos processos cognitivos e à experiência acumulada pelo povo que a fala através das gerações. A perda abrupta de uma língua, por imposição de outra cultura, leva à perda de grande parte desse conhecimento específico, prejudicando tanto o povo afetado quanto a humanidade como um todo."
+    },
+    {
+        "instruction": "Descreva o objetivo do projeto discutido no texto e como ele foi implementado.",
+        "input": "",
+        "output": "O objetivo do projeto, na perspectiva apresentada, é evitar que a história, a cultura e os modos de vida dos povos indígenas morram, refletidos e refratados em suas línguas. Para isso, o trabalho de construção do material foi realizado principalmente em sala de aula durante as aulas de tupi no turno noturno. O uso de recursos audiovisuais foi adotado como a melhor alternativa para a turma, composta por trabalhadores que, frequentemente, retornavam à educação formal após décadas sem estudar. A investigação dos nomes próprios foi um dos aspectos mais divertidos, envolvendo não só os apelidos dos próprios alunos, mas também os nomes de familiares e vizinhos, servindo como atividade extra voluntária. A sistematização do conteúdo foi realizada após as aulas e apresentada à comunidade escolar, com as lembranças dos estudantes sendo compartilhadas para fortalecer o trabalho."
+    },
+    {
+        "instruction": "Explique a importância da exibição de recursos audiovisuais nas aulas do projeto.",
+        "input": "",
+        "output": "A exibição de recursos audiovisuais foi considerada a melhor alternativa para as aulas do projeto, porque a turma era composta por pessoas trabalhadoras que estavam retornando à sala de aula após décadas sem estudar. Esses recursos ajudaram a envolver os alunos e a explorar suas histórias pessoais, que contribuíram significativamente para o conteúdo do livro produzido."
+    },
+    {
+        "instruction": "Fale sobre o processo de investigação de nomes próprios no contexto do projeto.",
+        "input": "",
+        "output": "O processo de investigação dos nomes próprios no projeto foi uma atividade divertida e envolvente. Além dos apelidos dos próprios alunos, foram pesquisados os nomes de familiares, vizinhos e locais da comunidade. Esses nomes surgiam nas discussões em sala, nos corredores ou em casa, e serviam como atividades extras cumpridas voluntariamente. Toda a sistematização desse conteúdo foi feita após as aulas e apresentada à comunidade escolar para promover o trabalho."
+    },
+    {
+        "instruction": "Descreva o processo de ocupação do território Mendonça pelo grupo familiar Mendonça.",
+        "input": "",
+        "output": "O grupo familiar Mendonça constitui-se de antecessores indígenas pertencentes às etnias Potiguara e Tapuia. Algumas famílias de etnia Potiguara migraram do Brejo de Bananeiras (PB) para o Rio Grande do Norte a partir do século XVI, especialmente durante crises como epidemias de cólera, secas e expansão colonial. Esses indígenas foram recebidos pela comunidade já estabelecida no Amarelão, com quem se uniram por laços familiares e casamentos. O território Mendonça possui seis aldeias localizadas em João Câmara e Jardim de Angicos, na região do Mato Grande do Rio Grande do Norte."
+    },
+    {
+        "instruction": "Explique a importância do grupo familiar Mendonça na construção do município de João Câmara.",
+        "input": "",
+        "output": "A criação do município de João Câmara surgiu da construção da linha férrea passando pela Vila Baixa Verde entre o final do século XIX e início do século XX. Os Mendonça do Amarelão participaram ativamente dessa construção com mão de obra braçal, especialmente porque suas terras, utilizadas para agricultura de subsistência, foram cercadas por fazendeiros migrantes. Forçados a encontrar outras formas de sustento, os indígenas começaram a trabalhar conforme os horários e calendário dos contratantes, o que impactou a organização social da comunidade. A partir da construção do município, houve um processo contínuo de invasão do território dos Mendonças, levando os homens indígenas a buscar trabalho em fazendas de algodão e pecuária fora da comunidade."
+    },
+    {
+        "instruction": "Descreva o conflito entre indígenas e fazendeiros na comunidade Amarelão.",
+        "input": "",
+        "output": "Os indígenas da comunidade Amarelão relataram que, ao tentarem entrar nos territórios/roçados, foram ameaçados de morte pelos fazendeiros. Após a construção do município de João Câmara, o povo Mendonça perdeu grande parte de seu território, restando apenas a área onde estão localizadas suas residências na comunidade Amarelão."
+    },
+    {
+        "instruction": "Explique a origem do nome 'Amarelão'.",
+        "input": "",
+        "output": "O nome 'Amarelão' tem origem em um antigo ritual praticado pelos antepassados que cultuavam o Sol. Eles subiam uma serra de madrugada, esperavam o Sol aparecer e desciam cantando e tocando maracas, referindo-se ao Sol como 'o Amarelão'."
+    },
+    {
+        "instruction": "Descreva a identidade cultural do povo Mendonça.",
+        "input": "",
+        "output": "A comunidade indígena Amarelão, de etnia Potiguara e tronco familiar Mendonça, está localizada no Território Indígena Mendonça. Os Mendonça se reconhecem pelo etnônimo 'Mendonça' como identidade étnica e não se declaram indígenas ou Potiguaras. A partir da luta política por direitos e resgate histórico, passaram a acionar a etnia Potiguara como parte do processo."
+    },
+    {
+        "instruction": "Forneça uma visão geral da Articulação dos Povos Indígenas do RN (APIRN).",
+        "input": "",
+        "output": "A Articulação dos Povos Indígenas do RN (APIRN) foi criada em 17 de dezembro de 2018 e serve como espaço de articulação com eleições anuais. A APIRN luta pela manutenção dos direitos dos povos indígenas, resistência das aldeias e contra pandemias e epidemias trazidas por interações com povos não indígenas. Eles trabalham em conjunto com outras instâncias, como a APIB e a APOINME."
+    },
+    {
+        "instruction": "Detalhe as batalhas recentes dos povos indígenas no estado do Rio Grande do Norte.",
+        "input": "",
+        "output": "No estado do Rio Grande do Norte, três aldeias (Catu, Mendonça e Caboclos) começaram a lutar pelo reconhecimento étnico, quebrando a imagem de desaparecimento indígena transmitida pela historiografia do século XX. Organizaram seis assembleias gerais para tratar do reconhecimento das aldeias e empoderamento de aldeias silenciadas. As lutas incluem a criação de políticas públicas e o direito à Educação Escolar Indígena, diferenciada, intercultural, bilíngue e comunitária."
+    },
+    {
+        "instruction": "Quantas escolas indígenas existem legalizadas no Rio Grande do Norte (RN)?",
+        "input": "",
+        "output": "Existem duas escolas indígenas legalizadas no Rio Grande do Norte: a Escola Municipal João Lima e a Escola Estadual Indígena Professor Francisco Silva do Nascimento."
+    },
+    {
+        "instruction": "Informe a localização das duas escolas indígenas legalizadas no RN.",
+        "input": "",
+        "output": "A Escola Municipal João Lima está localizada na aldeia Katu e a Escola Estadual Indígena Professor Francisco Silva do Nascimento na comunidade indígena do Amarelão."
     }
 ]
