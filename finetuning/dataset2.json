@@ -1,0 +1,542 @@
+[
+    {
+        "instruction": "Explique a população indígena no Brasil durante a época do descobrimento.",
+        "input": "",
+        "output": "Na época do descobrimento, em 1500, estima-se que havia de 3 a 4 milhões de indígenas no Brasil. Algumas tribos fizeram acordos com os portugueses e foram utilizadas como mão de obra na exploração do pau-brasil, enquanto outras tribos foram aprisionadas e tornaram-se escravas, resultando em muitos combates, como a confederação dos tamoios, onde várias tribos se uniram para combater os portugueses. Dessa forma, o Brasil não foi descoberto, mas sim conquistado."
+    },
+    {
+        "instruction": "Descreva a atuação dos Jesuítas no Brasil em relação aos indígenas e aos negros.",
+        "input": "",
+        "output": "Os Jesuítas vieram para o Brasil no início da colonização e ajudaram a defender os índios da escravidão. No entanto, eles auxiliaram na introdução dos negros como escravos, recebendo inicialmente uma percentagem da venda dos escravos."
+    },
+    {
+        "instruction": "Qual foi a herança deixada pelos indígenas em relação ao vocabulário?",
+        "input": "",
+        "output": "Apesar de serem derrotados e até hoje serem negligenciados pelas autoridades, os indígenas no Brasil deixaram um amplo vocabulário que até hoje é utilizado."
+    },
+    {
+        "instruction": "Traduzir os seguintes termos indígenas do Tupi-Guarani para o português: Abaetê, Abaré, Abati, Acaí.",
+        "input": "",
+        "output": "Abaetê: pessoa boa, Abaré: amigo, Abati: milho, Acaí: fruta que chora; fruta de onde sai líquido."
+    },
+    {
+        "instruction": "Defina o termo 'caiçara' do vocabulário indígena.",
+        "input": "",
+        "output": "Caiçara refere-se a uma paliçada em torno de uma aldeia indígena, usada para proteção contra inimigos ou animais. Originalmente, o termo tupi caá-içara era usado para denominar as estacas colocadas ao redor de aldeias ou cercas feitas de galhos para cercar peixes. Hoje, 'caiçara' também é uma denominação para comunidades e indivíduos que vivem ao longo do litoral dos Estados de São Paulo, Paraná e Rio de Janeiro."
+    },
+    {
+        "instruction": "Defina o termo 'ipura' e seu uso pelos índios do interior paulista.",
+        "input": "ipura",
+        "output": "Ipura significa 'de dentro do mato'. Foi usado pelos índios do interior paulista para designar os colonizadores."
+    },
+    {
+        "instruction": "Qual é o significado do nome 'Camboriu'?",
+        "input": "Camboriu",
+        "output": "'Camboriu' significa 'rio onde corre o leite'."
+    },
+    {
+        "instruction": "Explique o significado de 'Cambuci'.",
+        "input": "Cambuci",
+        "output": "'Cambuci' significa 'pote'."
+    },
+    {
+        "instruction": "Qual é a origem e o significado do nome 'Cananéia'?",
+        "input": "Cananéia",
+        "output": "'Cananéia' foi registrado no diário de navegação da expedição como 'cananor' e posteriormente como 'cananéia'. Seu nome vem da índia Caniné, filha do Cacique Maratayama (Mara = mar, tayama = terra)."
+    },
+    {
+        "instruction": "Descreva o que significa 'Capanga'.",
+        "input": "Capanga",
+        "output": "'Capanga' é um tipo de bolsa utilizada para caçar ou viajar."
+    },
+    {
+        "instruction": "Explique o termo 'Capim' e suas características.",
+        "input": "Capim",
+        "output": "'Capim' significa 'erva qualquer'. Há uma grande variedade dessa planta no Brasil, pertencente à família das gramíneas e das ciperáceas, de folha miúda, mato fino, e folha delgada."
+    },
+    {
+        "instruction": "Qual é o significado de 'Capitinga'?",
+        "input": "Capitinga",
+        "output": "'Capitinga' significa 'de folha miúda branca'."
+    },
+    {
+        "instruction": "Explique o termo 'Capivara' e seu significado.",
+        "input": "Capivara",
+        "output": "'Capivara' significa 'o comedor de capim', referindo-se a um herbívoro."
+    },
+    {
+        "instruction": "Qual é a origem do termo 'Capoeira'?",
+        "input": "Capoeira",
+        "output": "'Capoeira' vem do tupi guarani 'co-poera', que significa 'roça velha' ou 'de mato velho, extinto'."
+    },
+    {
+        "instruction": "Descreva 'Capororora'.",
+        "input": "Capororora",
+        "output": "'Capororora' refere-se a uma variedade de anta."
+    },
+    {
+        "instruction": "Qual é o significado de 'Caracú'?",
+        "input": "Caracú",
+        "output": "'Caracú' é uma raça de gado."
+    },
+    {
+        "instruction": "Explique a origem e o significado de 'Caraguatatuba'.",
+        "input": "Caraguatatuba",
+        "output": "'Caraguatatuba' é um vocábulo tupi que, segundo Silveira Bueno, significa 'lugar de muitos caraguatás' ou 'mata de Caraguatas (gravatas)'."
+    },
+    {
+        "instruction": "Qual é a origem e o significado de 'Caraíba'?",
+        "input": "Caraíba",
+        "output": "'Caraíba' vem de 'Kará' e 'ib', significando sábio, inteligente. Inicialmente, o termo era usado para os pajés, mas depois foi usado para designar todos os homens brancos."
+    },
+    {
+        "instruction": "O que significa 'Caramuru'?",
+        "input": "Caramuru",
+        "output": "'Caramuru' significa, em tupi, 'Moreja', que é um peixe muito agressivo."
+    },
+    {
+        "instruction": "Explique o significado de 'Cari'.",
+        "input": "Cari",
+        "output": "'Cari' significa 'homem branco'."
+    },
+    {
+        "instruction": "Qual é a origem e o significado de 'Carioca'?",
+        "input": "Carioca",
+        "output": "'Carioca' vem do Tupi-Guarani: 'kari' = branco; 'oka' = casa. Significa 'Casa do branco' ou 'oriundo de acarioca, casa dos acaris (peixes)'. Refere-se a um rio que nascia no Corcovado."
+    },
+    {
+        "instruction": "O que é 'Catapora'?",
+        "input": "Catapora",
+        "output": "'Catapora' refere-se a fogo que brota."
+    },
+    {
+        "instruction": "Explique o termo 'Catete'.",
+        "input": "Catete",
+        "output": "'Catete' é derivado de 'caa-ete', significando mata cerrada."
+    },
+    {
+        "instruction": "Qual é o significado de 'Ceará'?",
+        "input": "Ceará",
+        "output": "'Ceará' significa 'canto da jandaia'."
+    },
+    {
+        "instruction": "Explique o termo 'Circum-Navegar'.",
+        "input": "Circum-Navegar",
+        "output": "'Circum-Navegar' significa 'dar a volta navegando'. Vem do Latim 'circum', que significa 'ao redor', mais 'navigari'."
+    },
+    {
+        "instruction": "Qual é o significado de 'Coroaci'?",
+        "input": "Coroaci",
+        "output": "'Coroaci' significa 'terra de frente para o sol'."
+    },
+    {
+        "instruction": "Explique o termo 'Cunhambebe' e suas diferentes interpretações.",
+        "input": "Cunhambebe",
+        "output": "'Cunhambebe' é derivado do termo tupi 'kunhãmbeba', que significa 'mulher achatada, sem seios, de seios muito pequenos', pela junção de 'kunhã' (mulher) e 'mbeba' (achatado). É uma alusão ao peito musculoso e desenvolvido de Cunhambebe. O escritor Eduardo Bueno, baseado em Teodoro Sampaio, diz que 'Cunhambebe' significa 'o gago' em tupi, mas essa etimologia é considerada fantasiosa por Eduardo de Almeida Navarro."
+    },
+    {
+        "instruction": "O que é 'Curare'?",
+        "input": "Curare",
+        "output": "'Curare' vem de 'urari', que significa veneno."
+    },
+    {
+        "instruction": "Descreva o significado de 'Curitiba'.",
+        "input": "Curitiba",
+        "output": "'Curitiba' vem do Tupi-Guarani: 'Curi' = pinhão; 'Tiba' = lugar. Significa 'lugar de muito pinhão'."
+    },
+    {
+        "instruction": "Qual é o significado de 'Curumim'?",
+        "input": "Curumim",
+        "output": "'Curumim' significa menino."
+    },
+    {
+        "instruction": "Explique o termo 'Cutia'.",
+        "input": "Cutia",
+        "output": "'Cutia' vem do Tupi-Guarani: 'a-coti' = indivíduo que se assenta para comer."
+    },
+    {
+        "instruction": "Qual é o significado de 'Cutucar'?",
+        "input": "Cutucar",
+        "output": "'Cutucar' vem do tupi guarani 'cutuca', que significa 'ferir' ou 'espetar'."
+    },
+    {
+        "instruction": "O que significa 'Emboaba'?",
+        "input": "Emboaba",
+        "output": "A palavra 'emboaba' significa, em tupi, 'pássaro de pés emplumados' e era usada pejorativamente para designar os forasteiros, pois eles utilizavam botas."
+    },
+    {
+        "instruction": "Explique o termo 'Entradas'.",
+        "input": "Entradas",
+        "output": "'Entradas' refere-se a expedições financiadas pelo governo."
+    },
+    {
+        "instruction": "Qual é o significado de 'Ereré'?",
+        "input": "Ereré",
+        "output": "'Ereré' refere-se a uma canoa dos marrecas."
+    },
+    {
+        "instruction": "Descreva a origem do termo 'Galpão'.",
+        "input": "Galpão",
+        "output": "'Galpão' vem do náhuatl 'calpulli', que significa 'sala' ou 'casa grande'."
+    },
+    {
+        "instruction": "Qual é o significado de 'Gentios'?",
+        "input": "Gentios",
+        "output": "No início do descobrimento, os portugueses se referiam aos habitantes da terra como 'gentios'. Somente anos depois foi adotado o nome 'índios'."
+    },
+    {
+        "instruction": "Explique o termo 'Goiás'.",
+        "input": "Goiás",
+        "output": "'Goiás' significa 'de raça igual'."
+    },
+    {
+        "instruction": "Qual é o significado de 'Gororoba'?",
+        "input": "Gororoba",
+        "output": "'Gororoba' vem do tupi guarani 'guara' e 'roba', que significam respectivamente 'árvore' e 'amargo'."
+    },
+    {
+        "instruction": "Descreva a origem e o significado de 'Grajaú'.",
+        "input": "Grajaú",
+        "output": "'Grajaú' refere-se a um pássaro que come."
+    },
+    {
+        "instruction": "Qual é a origem e o significado de 'Guaiuba'?",
+        "input": "Guaiuba",
+        "output": "'Guaiuba' significa 'bebida da lagoa'."
+    },
+    {
+        "instruction": "Descreva a origem e o significado de 'Guanabara'.",
+        "input": "Guanabara",
+        "output": "'Guanabara' significa 'seio do mar'."
+    },
+    {
+        "instruction": "O que significa 'Guaraciaba'?",
+        "input": "Guaraciaba",
+        "output": "'Guaraciaba' significa 'cabelo de fogo'."
+    },
+    {
+        "instruction": "Qual é o significado de 'Guarani'?",
+        "input": "Guarani",
+        "output": "'Guarani' significa 'guerreiro'."
+    },
+    {
+        "instruction": "Explique o termo 'Guarujá'.",
+        "input": "Guarujá",
+        "output": "'Guarujá' significa 'viveiro de guarus (peixes)'."
+    },
+    {
+        "instruction": "O que significa 'Guarulhos'?",
+        "input": "Guarulhos",
+        "output": "'Guarulhos' refere-se aos guarus (peixes)."
+    },
+    {
+        "instruction": "Descreva o significado do termo 'Guirá'.",
+        "input": "Guirá",
+        "output": "'Guirá' significa 'pássaros'."
+    },
+    {
+        "instruction": "Explicar a origem do nome de uma árvore brasileira.",
+        "input": "Ibirapiranga",
+        "output": "O nome Ibirapiranga vem do tupi, sendo composto por 'Ybirá', que significa árvore, e 'Pyrana', que significa vermelha. Refere-se ao pau-brasil."
+    },
+    {
+        "instruction": "Definir o significado do termo 'Iguaçu'.",
+        "input": "",
+        "output": "Iguaçu quer dizer 'água grande'; refere-se a um rio ou lago grande."
+    },
+    {
+        "instruction": "Descrever a origem do termo índios utilizado no Brasil.",
+        "input": "",
+        "output": "O termo 'índios' vem do rio Indo, localizado na Índia, que emprestou seu nome ao país. Nos manuscritos iniciais da descoberta do Brasil, os índios eram denominados de gentios."
+    },
+    {
+        "instruction": "Qual o significado de 'Ipanema'?",
+        "input": "",
+        "output": "Ipanema significa 'água ruim'."
+    },
+    {
+        "instruction": "O que significa 'Iracema'?",
+        "input": "",
+        "output": "Iracema tem origem no guarani, composto pelos elementos 'ira' (mel) e 'acema' (escorrer ou sair em grande quantidade). Literalmente, o nome Iracema significa 'saída do mel'."
+    },
+    {
+        "instruction": "Explique o que significa 'Itanhaém'.",
+        "input": "",
+        "output": "Há duas versões para a etimologia do nome Itanhaém, proveniente do tupi 'itá-nha'ẽ': uma afirma que signifique 'pedra que canta', e outra, 'pranto de pedra' ou 'pedra que chora'."
+    },
+    {
+        "instruction": "Qual a origem e o significado do nome 'José de Anchieta'?",
+        "input": "",
+        "output": "José de Anchieta nasceu em San Cristóbal de la Laguna, em Tenerife, ilha vulcânica no arquipélago das Canárias, Espanha. Embora tenha vivido a maior parte do tempo no Brasil, se considerava Basco. Foi um dos responsáveis pela introdução dos escravos negros no Brasil."
+    },
+    {
+        "instruction": "Definir o significado da palavra 'Membira' em língua indígena.",
+        "input": "Membira",
+        "output": "Filho ou filha."
+    },
+    {
+        "instruction": "Explicar o significado e a origem de 'Mongaguá'.",
+        "input": "Mongaguá",
+        "output": "É uma palavra indígena que significa 'água pegajosa'. Nome dado pelos índios guaranis que viviam às margens dos rios Mongaguá e Aguapéu."
+    },
+    {
+        "instruction": "Definir a palavra 'Moqueca' e sua origem.",
+        "input": "Moqueca",
+        "output": "Do tupi pokeka, que significa 'assado de peixes' ou moquém, como era chamada a grelha de madeira onde se assava o peixe."
+    },
+    {
+        "instruction": "Explicar quem era um 'Morubixaba' e sua origem etimológica.",
+        "input": "Morubixaba",
+        "output": "Do tupi morumbi'xawa, que significa 'chefe indígena'."
+    },
+    {
+        "instruction": "Descrever o significado de 'Morumbi' e sua origem.",
+        "input": "Morumbi",
+        "output": "Morro ou colina verde."
+    },
+    {
+        "instruction": "Definir 'Mutirão' e sua origem.",
+        "input": "Mutirão",
+        "output": "Do tupi guarani pitibõ, que significa 'ajudar'. Refere-se a uma reunião de pessoas em prol de uma construção ou colheita, na qual uns ajudam os outros."
+    },
+    {
+        "instruction": "Explicar o significado da palavra 'Navegação' e sua origem.",
+        "input": "Navegação",
+        "output": "Do latim navigatio, 'navegação', de navis, 'nau, navio, embarcação'."
+    },
+    {
+        "instruction": "Descrever a origem da frase 'Navegar é preciso, viver não é preciso'.",
+        "input": "Navegar é preciso, viver não é preciso.",
+        "output": "Frase registrada pelo historiador romano Plutarco na obra de Vida dos homens ilustres, e atribuída ao general romano Cneu Pompeu Magno. Ficou famosa nos versos do poeta italiano Francesco Plutarco e depois nos do português Fernando Pessoa."
+    },
+    {
+        "instruction": "Definir 'Oca' e sua origem.",
+        "input": "Oca",
+        "output": "Casa."
+    },
+    {
+        "instruction": "Definir 'Ocara' e sua origem.",
+        "input": "Ocara",
+        "output": "Praça."
+    },
+    {
+        "instruction": "Explicar o termo 'Oceano' e sua origem etimológica.",
+        "input": "Oceano",
+        "output": "Termo que tem origem no grego Ōkeanós, nome de um dos doze titãs, filhos de Úrano e de Gaia. A palavra passou depois ao latim como oceănus. Durante algum tempo, em latim e nas línguas europeias, usou-se o termo 'mar oceano' (mare oceanum em latim)."
+    },
+    {
+        "instruction": "Explicar por que o Oceano Pacífico recebeu esse nome.",
+        "input": "Oceano Pacífico",
+        "output": "O navegador português Fernão de Magalhães batizou o oceano de Pacífico em 1520, impressionado com a tranquilidade das águas. Na verdade, o dia era atípico, pois o Pacífico é mais perigoso do que o Atlântico."
+    },
+    {
+        "instruction": "Definir 'Pamonha' e sua origem.",
+        "input": "Pamonha",
+        "output": "Do tupi guarani apá-mimõia, que significa 'cozido e envolvido'."
+    },
+    {
+        "instruction": "Definir 'Pará' em tupi.",
+        "input": "Pará",
+        "output": "Rio."
+    },
+    {
+        "instruction": "Definir 'Paraíba' e sua origem.",
+        "input": "Paraíba",
+        "output": "Rio ruim (com pouca quantidade de peixe)."
+    },
+    {
+        "instruction": "Explicar o significado de 'Paraná' em tupi.",
+        "input": "Paraná",
+        "output": "Rio caudaloso ou grande rio como o mar."
+    },
+    {
+        "instruction": "Definir 'Paranaguaçu' e sua origem.",
+        "input": "Paranaguaçu",
+        "output": "Mar grande."
+    },
+    {
+        "instruction": "Descrever o significado de 'Paranapiacaba' e sua origem.",
+        "input": "Paranapiacaba",
+        "output": "Local de onde se vê o mar."
+    },
+    {
+        "instruction": "Definir 'Peba' em tupi.",
+        "input": "Peba",
+        "output": "Branco."
+    },
+    {
+        "instruction": "Explicar o que significa 'Pereba' em tupi.",
+        "input": "Pereba",
+        "output": "Do tupi guarani pere’wa, que significa 'ferida'."
+    },
+    {
+        "instruction": "Descrever a origem do nome 'Peros' dado pelos índios aos portugueses.",
+        "input": "Peros",
+        "output": "Nome dado pelos índios aos portugueses que chegaram em 1500, devido ao fato de muitos portugueses se chamarem Pero, como Pero Vaz de Caminha, escrivão que relatou a presença de índios na terra recém-descoberta."
+    },
+    {
+        "instruction": "Definir 'Peteca' e sua origem.",
+        "input": "Peteca",
+        "output": "Bater com a palma das mãos."
+    },
+    {
+        "instruction": "Explicar o significado e a origem de 'Pindorama'.",
+        "input": "Pindorama",
+        "output": "Terra das Palmeiras. Derivada do Tupy-Guarani, era o nome que os nativos chamavam as terras brasileiras quando do descobrimento pelas naus portuguesas comandadas por Pedro Álvares Cabral."
+    },
+    {
+        "instruction": "Definir 'Pipoca' e sua origem.",
+        "input": "Pipoca",
+        "output": "Do tupi guarani pira e poca, que significam 'pele rebentada' quando juntos."
+    },
+    {
+        "instruction": "Descrever o significado da palavra 'Pirá' em tupi.",
+        "input": "Pirá",
+        "output": "Peixe."
+    },
+    {
+        "instruction": "Explicar o que significa 'Piracema' em tupi.",
+        "input": "Piracema",
+        "output": "Saída dos peixes."
+    },
+    {
+        "instruction": "Explique o significado do termo 'Piratininga'.",
+        "input": "",
+        "output": "'Piratininga' pode significar peixe seco ou homem sem passado, como no caso de João Ramalho, que chegou do mar e cujo passado é desconhecido."
+    },
+    {
+        "instruction": "Qual o significado do termo 'Pitanga'?",
+        "input": "",
+        "output": "'Pitanga' significa árvore vermelha."
+    },
+    {
+        "instruction": "O que significa 'Poti' em tupi-guarani?",
+        "input": "",
+        "output": "'Poti' significa camarão em tupi-guarani."
+    },
+    {
+        "instruction": "Explique o significado de 'Ré'.",
+        "input": "",
+        "output": "'Ré' significa amigo."
+    },
+    {
+        "instruction": "Qual a atual cidade que foi chamada de 'Reritiba'?",
+        "input": "",
+        "output": "'Reritiba' é o antigo nome da cidade de Anchieta, no Espírito Santo."
+    },
+    {
+        "instruction": "Qual a importância histórica do porto de São Vicente para os navegantes portugueses?",
+        "input": "",
+        "output": "O porto de São Vicente foi fundamental para os primeiros navegantes portugueses. Embora desabitado, servia como ponto de parada para reabastecimento das naus com água e provisões. Devido à sua localização na mesma latitude do Cabo da Boa Esperança, era o ponto mais ao sul do continente americano onde se podia pisar em terra firme antes de atravessar o Atlântico novamente e contornar o Cabo das Tormentas rumo ao Oceano Índico."
+    },
+    {
+        "instruction": "Qual é o significado de 'Sapucaí' em tupi-guarani?",
+        "input": "",
+        "output": "'Sapucaí' significa 'rio do galo' ou 'rio que grita' em tupi-guarani."
+    },
+    {
+        "instruction": "O que significa 'Sergipe'?",
+        "input": "",
+        "output": "'Sergipe' significa rio dos siris."
+    },
+    {
+        "instruction": "Explique o termo 'Taba'.",
+        "input": "",
+        "output": "'Taba' se refere a um conjunto de malocas (casas)."
+    },
+    {
+        "instruction": "Descreva a 'Tacape' e seu uso.",
+        "input": "",
+        "output": "Tacape, do Tupi Guarani, significa ta-haste; acape-acampe-quebrar cabeça. Era uma arma valente de guerra usada pelos índios."
+    },
+    {
+        "instruction": "O que significa 'Tamuias' ou 'Tamoios'?",
+        "input": "",
+        "output": "'Tamuias' ou 'Tamoios' significa 'os mais antigos donos da terra, os primeiros', 'o mais velho, o dono da terra, o mais antigo'."
+    },
+    {
+        "instruction": "Qual é o significado histórico de 'Taprobana'?",
+        "input": "",
+        "output": "'Taprobana' era uma ilha ao sul da Índia, inicialmente chamada ilha do Rei Rawana (dip-Raawan), depois Ceilão (terra dos leões), e atualmente conhecida como Sri Lanka (ilha resplandecente)."
+    },
+    {
+        "instruction": "Explique o significado de 'Tapuia'.",
+        "input": "",
+        "output": "'Tapuia' significa servo ou escravo."
+    },
+    {
+        "instruction": "Descreva o significado do nome 'Tatuapé'.",
+        "input": "",
+        "output": "'Tatuapé' significa caminho de tatus."
+    },
+    {
+        "instruction": "Quem foi 'Tibiriça'?",
+        "input": "",
+        "output": "'Tibiriça' era um principal da terra."
+    },
+    {
+        "instruction": "Qual é o significado de 'Tietê'?",
+        "input": "",
+        "output": "'Tietê' significa rio profundo."
+    },
+    {
+        "instruction": "O que significa 'Tijuca'?",
+        "input": "",
+        "output": "'Tijuca' significa pântano, lama, atoleiro."
+    },
+    {
+        "instruction": "Explique o termo 'Tocaia'.",
+        "input": "",
+        "output": "'Tocaia' é uma casinha ou cercado onde os índios se escondiam para surpreender um inimigo."
+    },
+    {
+        "instruction": "Qual é o significado de 'Tucano' em tupi-guarani?",
+        "input": "",
+        "output": "'Tucano', do Tupi-Guarani: tu-can, significa que bate forte."
+    },
+    {
+        "instruction": "Explique a origem e o significado do termo 'Tupi'.",
+        "input": "",
+        "output": "'Tupi' pode ter duas interpretações: 'tu-u'pi' ('o pai supremo'), derivando em 'ty'pi' ou 'tu'pi' ('os da primeira geração'), ou como sinônimo de 'tupã' ('deus, pai altíssimo'), de 'tu'pana' ('a pancada estrondeante', ou seja, o trovão)."
+    },
+    {
+        "instruction": "Quem são os 'Tupinambá'?",
+        "input": "",
+        "output": "'Tupinambá' são descritos pelo historiador Teodoro Sampaio como 'filho do pai supremo', ou seja, a geração do progenitor."
+    },
+    {
+        "instruction": "O que significa 'Tupiniquins'?",
+        "input": "",
+        "output": "'Tupiniquins' vem da expressão 'tupin-i-ki', significando 'tupi ao lado, vizinho lateral', ou de 'tupinã-ki', significando 'tribo colateral, o galho dos tupis'."
+    },
+    {
+        "instruction": "Explique o termo 'Tuxaua'.",
+        "input": "",
+        "output": "'Tuxaua', do tupi 'tuwi'xawa', significa capitão ou qualquer pessoa que tiver mando."
+    },
+    {
+        "instruction": "Qual é o significado de 'Ubá'?",
+        "input": "",
+        "output": "'Ubá' significa canoa."
+    },
+    {
+        "instruction": "Explique o nome 'Ubatuba' e sua origem.",
+        "input": "",
+        "output": "'Ubatuba' significa 'lugar com muita cana do tipo flecha' ou 'lugar de canoas' (uba= cana + tuba= sufixo de abundância, muito)."
+    },
+    {
+        "instruction": "Qual é o significado de 'Uberaba'?",
+        "input": "",
+        "output": "'Uberaba' significa água cristalina."
+    },
+    {
+        "instruction": "O que é 'Ujá'?",
+        "input": "",
+        "output": "'Ujá' é um ornamento em formato de touca que é colocado na cabeça."
+    },
+    {
+        "instruction": "Explique o significado de 'Urubu'.",
+        "input": "",
+        "output": "'Urubu' vem do tupi guarani 'uru' e 'bu', que significam, respectivamente, 'ave grande' e 'negro'."
+    }
+]

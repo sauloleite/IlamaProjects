@@ -1,0 +1,772 @@
+[
+    {
+        "instruction": "Explique a origem e objetivos do 'Minidicionário Ilustrado Guarani-português'.",
+        "input": "",
+        "output": "O 'Minidicionário Ilustrado Guarani-português' é resultado dos projetos de extensão e pesquisa intitulados 'Minidicionário Ilustrado Guarani-português' e 'Glossário Indígena guarani/português: uma proposta de preservação e divulgação da arte e cultura guarani'. Estes projetos foram desenvolvidos pelo Instituto Federal de Santa Catarina (IFSC) câmpus Araranguá e o Laboratório de Experimentação Remota (RExLab) da Universidade Federal de Santa Catarina do câmpus Araranguá, financiados pelos editais 2021-PROEX 50/IFSC e 02/2020/PROPPI/IFSC."
+    },
+    {
+        "instruction": "Mencione os responsáveis pela coordenação e pelo projeto gráfico do 'Minidicionário Ilustrado Guarani-português'.",
+        "input": "",
+        "output": "A coordenação do projeto foi realizada por Jaqueline Josiwana Steffens da Rocha, e o projeto gráfico foi desenvolvido por Jaqueline Josiwana Steffens da Rocha, Sandro Lumertz Hendler e Natália da Silva Martins."
+    },
+    {
+        "instruction": "Dê detalhes sobre os colaboradores e autores do 'Minidicionário Ilustrado Guarani-português'.",
+        "input": "",
+        "output": "Os textos e a tradução foram feitos por Adylson Acosta, com colaboradores como Cristina Isabel Acosta, Simone Meister Sommer Bilessimo, Juarez Bento da Silva e Angela Paula Drawanz Götzke. Os desenhos foram realizados por alunos do 1º ao 9º ano da Escola Indígena Nhu Porã, Torres/RS. A obra é intitulada 'Minidicionário Mbya Guarani - Aldeia Indígena Nhu Porã Volume 1', lançada em 2022 com ISBN 978-65-00-43764-5."
+    },
+    {
+        "instruction": "Descreva a licença sob a qual o 'Minidicionário Ilustrado Guarani-português' foi publicado.",
+        "input": "",
+        "output": "Todo o conteúdo do 'Minidicionário Ilustrado Guarani-português', salvo ressalvas, é publicado sob a licença Creative Commons Atribuição - Uso Não Comercial - Partilha nos Mesmos Termos 3.0 Não adaptada."
+    },
+    {
+        "instruction": "Traduzir a saudação do prefácio 'Aguyjevete paven'in!'.",
+        "input": "",
+        "output": "Aguyjevete a todos!"
+    },
+    {
+        "instruction": "Descreva o objetivo do projeto mencionado na fala de Adilson Acosta.",
+        "input": "",
+        "output": "O projeto foi desenvolvido pensando nas futuras gerações da comunidade Mbya Guarani, com o objetivo de fortalecer a cultura, a linguagem e a escrita indígena. Ele visa contribuir para a preservação da língua guarani falada na comunidade, por meio da criação de um minidicionário escrito em Língua Mbya Guarani e traduzido para o português."
+    },
+    {
+        "instruction": "Explique a importância do minidicionário para a comunidade Mbya Guarani.",
+        "input": "",
+        "output": "O minidicionário é muito importante para a comunidade Mbya Guarani porque nossos antepassados não tinham o hábito de registrar seus conhecimentos por meio da escrita. Ele fortalece a cultura, a linguagem e a escrita indígena, sendo uma ferramenta que ficará disponível tanto para membros da comunidade quanto para outras pessoas interessadas em conhecer a cultura Mbya Guarani."
+    },
+    {
+        "instruction": "Relate a reação das crianças indígenas ao participarem do projeto do minidicionário.",
+        "input": "",
+        "output": "Todas as crianças ficaram muito felizes em participar desse projeto. O minidicionário inclui desenhos feitos pelos próprios alunos indígenas, aumentando ainda mais seu engajamento e satisfação com o trabalho."
+    },
+    {
+        "instruction": "Descreva a história e os desafios enfrentados pelos povos indígenas conforme mencionados no prefácio.",
+        "input": "Prefácio",
+        "output": "Historicamente, os povos indígenas sofreram um processo de aculturação, miscigenação e marginalização. Em meio a inúmeros problemas, é cada vez menos comum o hábito de falar a língua originária de suas tribos. No entanto, muitas lideranças indígenas buscam alternativas para amenizar a perda cultural que vêm passando."
+    },
+    {
+        "instruction": "Identifique a localização da Tribo Nhu Porã da etnia Mbya Guarani e a sua parceria no projeto.",
+        "input": "",
+        "output": "A Tribo Nhu Porã da etnia Mbya Guarani está situada no município de Torres, no estado do Rio Grande do Sul. Ela participou do projeto em parceria, que teve como objetivo contribuir para a preservação da língua guarani falada na comunidade."
+    },
+    {
+        "instruction": "Descrever o projeto educacional realizado junto aos alunos da escola da aldeia.",
+        "input": "",
+        "output": "O projeto educacional foi realizado com alunos do 1º ao 9º ano do ensino fundamental da escola da aldeia, em parceria com o professor indígena de Arte e Cultura Guarani. Foram conduzidas oficinas teórico/práticas onde os alunos criaram ilustrações baseadas em conteúdos artísticos e culturais da tribo. As ilustrações foram registradas em guarani e português para a criação de um minidicionário que poderá ser usado como ferramenta de estudo nas aulas de Arte e Cultura Guarani, contribuindo para a preservação e valorização da língua e cultura Guarani."
+    },
+    {
+        "instruction": "Liste as letras do Alfabeto Mbya Guarani mencionadas no texto.",
+        "input": "",
+        "output": "A, MB, ND, E, G, H, I, J, K, M, N, O, P, Q, R, T, U, V, X, W, Y"
+    },
+    {
+        "instruction": "Traduza as seguintes palavras do guarani para o português: APYKAXU, AVA, ARANDU.",
+        "input": "",
+        "output": "APYKAXU - pombo, AVA - menino, ARANDU - sabedoria"
+    },
+    {
+        "instruction": "Qual é o objetivo do minidicionário ilustrado criado no projeto?",
+        "input": "",
+        "output": "O minidicionário ilustrado visa contribuir para a documentação e preservação da língua Guarani e pode ser utilizado como ferramenta de estudo nas aulas de Arte e Cultura Guarani da escola da comunidade. O projeto busca fomentar o uso e valorização da língua entre os alunos e familiares da aldeia e promover o reconhecimento desses saberes por parte dos não indígenas."
+    },
+    {
+        "instruction": "Explique a tradição dos avós indígenas em relação às crianças.",
+        "input": "",
+        "output": "Antigamente, nossos avós faziam armadilhas para pegar pombo para as crianças comerem."
+    },
+    {
+        "instruction": "Liste verbos que começam com a letra 'A' em guarani.",
+        "input": "",
+        "output": "AJAU, AIPOU, AJAPYXAKA, AJEPO PETE, ANHEPYXANGA, AJATY, AMOIPORÃ, APOI, AMBOJEVY, AGUYJEVETE, AMOMBE'UTA, ANHEMONDYI, AVAXI."
+    },
+    {
+        "instruction": "Liste substantivos que começam com a letra 'A' em guarani.",
+        "input": "",
+        "output": "AO (roupa), AXA (machado), AVAXI (milho), AGUARA'I (lobo), ANGARA'I (lobo), ARAXA (goiaba), AJAKA (balaio), ARAPAXAI (arara)."
+    },
+    {
+        "instruction": "Descreva a importância do milho para os indígenas.",
+        "input": "",
+        "output": "O milho é a receita principal dos indígenas desde sempre. Eles fazem algumas comidas diferentes, como farinha e pamonha."
+    },
+    {
+        "instruction": "Explique o significado de 'ANGUJA' no contexto fornecido.",
+        "input": "",
+        "output": "ANGUJA significa 'RATO'."
+    },
+    {
+        "instruction": "Diga a tradução da frase: 'XEE AJAYA TA XE A.'",
+        "input": "",
+        "output": "EU VOU CORTAR O MEU CABELO."
+    },
+    {
+        "instruction": "Explique o uso da palavra 'MBERU' em uma frase.",
+        "input": "",
+        "output": "MBERU significa 'MOSCA'. Um exemplo de frase seria: 'MBERU MA OMBO'A XEVAI TEMBI'U JAEJA RIVE VA'EKUE RE.', que traduzido para o português seria 'A MOSCA PÕE OVOS NA COMIDA QUE GUARDAM OU DEIXAM DE COMER.'"
+    },
+    {
+        "instruction": "Traduza a palavra 'ENXADA' para a língua fornecida no contexto.",
+        "input": "",
+        "output": "AXARAIE"
+    },
+    {
+        "instruction": "Liste três palavras da língua fornecida e seus significados em português.",
+        "input": "",
+        "output": "ANGUJA - RATO, MBIPYRETA - CENTOPÉIA, MBOPI - MORCEGO"
+    },
+    {
+        "instruction": "Como se diz 'COLAR' na língua fornecida?",
+        "input": "",
+        "output": "Não fornecido no texto."
+    },
+    {
+        "instruction": "Traduza a palavra 'REVÓLVER' para a língua fornecida.",
+        "input": "",
+        "output": "Não fornecido no texto."
+    },
+    {
+        "instruction": "Qual é o significado de 'MBY'ARAXY'?",
+        "input": "",
+        "output": "Não fornecido no texto."
+    },
+    {
+        "instruction": "Explique a palavra 'MBARAKAMIRIN'.",
+        "input": "",
+        "output": "MBARAKAMIRIN significa 'CHOCALHO'."
+    },
+    {
+        "instruction": "Quais são os significados de 'MBEPU' e 'MBYTA'?",
+        "input": "",
+        "output": "MBEPU significa 'PIADA' e MBYTA significa 'TRÊS'."
+    },
+    {
+        "instruction": "Liste os diferentes tipos de cobras mencionadas.",
+        "input": "",
+        "output": "Existem cobras venenosas e também não venenosas."
+    },
+    {
+        "instruction": "Traduzir e explicar a frase 'NDEROVA'.",
+        "input": "NDEROVA - SEU ROSTO NÃO TEM NÃO PODE NÃO DÓI SUA MÃE SEU ROSTO NÃO VEJO SEM GRAÇA SUA MÃO NÓS NÃO TROUXEMOS NÃO FIZ NÃO FIQUEI NÃO FUMO NÃO PEGUEI",
+        "output": "'NDEROVA' significa 'seu rosto'. Exemplos de uso em frases incluem: NDEROVA MA OIM REIPORU RIAE HAGUÃ AE MA. (Seu rosto existe para usar todo dia a cada minuto do mundo)."
+    },
+    {
+        "instruction": "Listar palavras guaranis que começam com 'ND'.",
+        "input": "",
+        "output": "NDEROVA (seu rosto), NDERYE (sua barriga), NDEJYVA (seu braço), NDEPY (teu pé), NDEKU'A (sua cintura), entre outras."
+    },
+    {
+        "instruction": "Listar palavras guaranis que começam com 'E'.",
+        "input": "",
+        "output": "EIRU (abelha), EJU (vir), EVO'I (minhoca), EJEVY (voltar), EJERURE (pedir), ENDU (sentir), EIPORUKA (emprestar)."
+    },
+    {
+        "instruction": "List words in Mbyá-Guarani starting with the letter 'E' and provide their translations.",
+        "input": "E",
+        "output": [
+            {
+                "word": "embopara",
+                "translation": "correr"
+            },
+            {
+                "word": "emoendy",
+                "translation": "acreditar"
+            },
+            {
+                "word": "eru",
+                "translation": "responder"
+            },
+            {
+                "word": "epy",
+                "translation": "atirar"
+            },
+            {
+                "word": "eipytyvon",
+                "translation": "escutar"
+            },
+            {
+                "word": "epita",
+                "translation": "fazer"
+            },
+            {
+                "word": "enhã-correr",
+                "translation": "brincar"
+            },
+            {
+                "word": "ei-mel",
+                "translation": "mel"
+            },
+            {
+                "word": "ero",
+                "translation": "responder"
+            },
+            {
+                "word": "embovai",
+                "translation": "correndo"
+            },
+            {
+                "word": "embopu",
+                "translation": "espanto, susto"
+            },
+            {
+                "word": "ejapyxaka",
+                "translation": "arrumar, consertar"
+            },
+            {
+                "word": "ejapo",
+                "translation": "fazer"
+            },
+            {
+                "word": "embovai",
+                "translation": "correndo"
+            },
+            {
+                "word": "enheovanga",
+                "translation": "não tenha pressa"
+            },
+            {
+                "word": "enhã",
+                "translation": "viu só?"
+            },
+            {
+                "word": "emondyi",
+                "translation": "espero"
+            },
+            {
+                "word": "emoatyrõ",
+                "translation": "é o momento"
+            },
+            {
+                "word": "ei",
+                "translation": "escutar"
+            },
+            {
+                "word": "ejapura heme",
+                "translation": "prestar atenção"
+            },
+            {
+                "word": "exapa",
+                "translation": "ele está na casa"
+            }
+        ]
+    },
+    {
+        "instruction": "Provide an example sentence using the word 'ei-mel' in Mbyá-Guarani.",
+        "input": "ei-mel",
+        "output": "Ei ma eiru kuery omono'on va'ekue ipoty'i gui."
+    },
+    {
+        "instruction": "What is the translation of the example sentence: 'Ei ma eiru kuery omono'on va'ekue ipoty'i gui.'",
+        "input": "",
+        "output": "O mel é produzido pelas abelhas que buscam através das flores."
+    },
+    {
+        "instruction": "List words in Mbyá-Guarani starting with the letter 'G' and provide their translations.",
+        "input": "G",
+        "output": [
+            {
+                "word": "gajo",
+                "translation": "galo"
+            },
+            {
+                "word": "guapya",
+                "translation": "cadeira"
+            },
+            {
+                "word": "guary",
+                "translation": "leão"
+            },
+            {
+                "word": "guavira",
+                "translation": "guabiroba"
+            },
+            {
+                "word": "guei'i",
+                "translation": "bezerro"
+            },
+            {
+                "word": "guapo'y",
+                "translation": "figueira"
+            },
+            {
+                "word": "guaki",
+                "translation": "cuíca"
+            },
+            {
+                "word": "goo py",
+                "translation": "ele(a) está na casa"
+            },
+            {
+                "word": "guaxu",
+                "translation": "grande,veado"
+            }
+        ]
+    },
+    {
+        "instruction": "Provide an example sentence using the word 'guapya' in Mbyá-Guarani.",
+        "input": "guapya",
+        "output": "Guapya ma oiko pave oiporu haguã oguapyahaguã."
+    },
+    {
+        "instruction": "What is the translation of the example sentence: 'Guapya ma oiko pave oiporu haguã oguapyahaguã.'",
+        "input": "",
+        "output": "A cadeira tem para todas as pessoas quando elas quiserem se sentar."
+    },
+    {
+        "instruction": "List words in Mbyá-Guarani starting with the letter 'H' and provide their translations.",
+        "input": "H",
+        "output": [
+            {
+                "word": "ha'i",
+                "translation": "mãe"
+            },
+            {
+                "word": "haxy",
+                "translation": "dor"
+            },
+            {
+                "word": "heta",
+                "translation": "muito"
+            },
+            {
+                "word": "henhoin",
+                "translation": "brotar"
+            },
+            {
+                "word": "hepy",
+                "translation": "caro"
+            },
+            {
+                "word": "hanho",
+                "translation": "só"
+            },
+            {
+                "word": "ha'eanho'in",
+                "translation": "sozinho"
+            },
+            {
+                "word": "hendy",
+                "translation": "luz"
+            },
+            {
+                "word": "hapo",
+                "translation": "raiz"
+            },
+            {
+                "word": "haxen",
+                "translation": "choro"
+            },
+            {
+                "word": "hexa",
+                "translation": "olhos"
+            }
+        ]
+    },
+    {
+        "instruction": "Liste alguns termos em Guarani Mbya relacionados ao corpo humano e objetos do cotidiano.",
+        "input": "",
+        "output": [
+            {
+                "termo": "HETYMA",
+                "significado": "PERNA"
+            },
+            {
+                "termo": "HI'A",
+                "significado": "CABELO"
+            },
+            {
+                "termo": "HU'Y",
+                "significado": "FLECHA"
+            },
+            {
+                "termo": "HY'AKUA",
+                "significado": "CHOCALHO"
+            },
+            {
+                "termo": "IJAPYXA",
+                "significado": "OUVIDO"
+            },
+            {
+                "termo": "INHAPEKUN",
+                "significado": "LÍNGUA"
+            },
+            {
+                "termo": "IJURU",
+                "significado": "BOCA"
+            },
+            {
+                "termo": "INAMBI",
+                "significado": "ORELHA"
+            }
+        ]
+    },
+    {
+        "instruction": "Explique como o povo Guarani Mbya utiliza as raízes em sua cultura.",
+        "input": "",
+        "output": "O povo Guarani Mbya utiliza as raízes de diversas plantas para a confecção de remédios tradicionais."
+    },
+    {
+        "instruction": "Traduza a palavra 'charmoso(a)' para o Guarani Mbya.",
+        "input": "",
+        "output": "IXUKO"
+    },
+    {
+        "instruction": "Forneça a tradução em Guarani Mbya das seguintes palavras: 'perdiz', 'bonito(a)', 'ouvido', 'língua', 'curva', 'costas', 'peitoral', 'braço'.",
+        "input": "",
+        "output": [
+            {
+                "palavra": "perdiz",
+                "tradução": "INAMBU"
+            },
+            {
+                "palavra": "bonito(a)",
+                "tradução": "IPORÃ"
+            },
+            {
+                "palavra": "ouvido",
+                "tradução": "IJAPYXA"
+            },
+            {
+                "palavra": "língua",
+                "tradução": "INHAPEKUN"
+            },
+            {
+                "palavra": "curva",
+                "tradução": "IKAREN"
+            },
+            {
+                "palavra": "costas",
+                "tradução": "IKUPE"
+            },
+            {
+                "palavra": "peitoral",
+                "tradução": "IPOXI'A"
+            },
+            {
+                "palavra": "braço",
+                "tradução": "IJYVA"
+            }
+        ]
+    },
+    {
+        "instruction": "Como o povo Guarani Mbya se refere a uma mulher grávida?",
+        "input": "",
+        "output": "IPURU'A"
+    },
+    {
+        "instruction": "Translate the following sentence from Guarani to Portuguese.",
+        "input": "INHAKUÃ MIVE REVE MBA'E RYRU OAXA XEYVY'I RE.",
+        "output": "UM CARRO PASSOU MUITO RÁPIDO PERTINHO DE MIM."
+    },
+    {
+        "instruction": "Translate the following sentence from Guarani to Portuguese.",
+        "input": "JAIXA'I MA MBYA KUERY RYMBA'I.",
+        "output": "PACA É UM ANIMAL SAGRADO PARA MBYA GUARANI."
+    },
+    {
+        "instruction": "What is the Guarani word for 'dog'?",
+        "input": "",
+        "output": "JAGUA"
+    },
+    {
+        "instruction": "What is the Guarani word for 'police'?",
+        "input": "",
+        "output": "JOPYÁ"
+    },
+    {
+        "instruction": "Translate the Portuguese word 'batata-doce' to Guarani.",
+        "input": "",
+        "output": "JETY"
+    },
+    {
+        "instruction": "Translate the Portuguese word 'juntos' to Guarani.",
+        "input": "",
+        "output": "JOAPYGUA"
+    },
+    {
+        "instruction": "Translate the Portuguese word 'cachorro' to Guarani.",
+        "input": "",
+        "output": "JAGUA"
+    },
+    {
+        "instruction": "Translate the Portuguese word 'lavar' to Guarani.",
+        "input": "",
+        "output": "JOJOPY"
+    },
+    {
+        "instruction": "Translate the Portuguese word 'defender' to Guarani.",
+        "input": "",
+        "output": "JERUXI"
+    },
+    {
+        "instruction": "Translate the Guarani word 'KURE' to Portuguese.",
+        "input": "",
+        "output": "PORCO"
+    },
+    {
+        "instruction": "Traduza a frase 'KUARAY MA OMOEXAKÃ YVY RUPA.' para o português.",
+        "input": "",
+        "output": "O SOL ILUMINA A TERRA."
+    },
+    {
+        "instruction": "Identifique o significado da palavra 'KUNHATAIN'.",
+        "input": "",
+        "output": "MOÇA"
+    },
+    {
+        "instruction": "Liste palavras com a letra 'k' junto com seus significados.",
+        "input": "",
+        "output": [
+            "KUARAY - SOL",
+            "KARO - CANECO",
+            "KA'YGUA - CUIA"
+        ]
+    },
+    {
+        "instruction": "Explique a expressão 'MANDUVI AVAXI KU'I REVE JA'U RAMO HEE MIVE!' em português.",
+        "input": "",
+        "output": "É MUITO GOSTOSO COMER AMENDOIM E MILHO SOCADO!"
+    },
+    {
+        "instruction": "Liste palavras com a letra 'm' junto com seus significados.",
+        "input": "",
+        "output": [
+            "MANDI'O - MANDIOCA",
+            "MYKUREN - GAMBÁ",
+            "MITAI - BEBÊ",
+            "MERO - MELÃO"
+        ]
+    },
+    {
+        "instruction": "Traduza a palavra 'NARÃ' para português.",
+        "input": "",
+        "output": "LARANJA"
+    },
+    {
+        "instruction": "Qual é o significado de 'NHANDU'?",
+        "input": "",
+        "output": "ARANHA"
+    },
+    {
+        "instruction": "Forneça o nome em Guarani para a palavra em português: 'ovelha'.",
+        "input": "ovelha",
+        "output": "ovexa'i"
+    },
+    {
+        "instruction": "Forneça a tradução do Guarani para 'caçador'.",
+        "input": "omarri kava'e",
+        "output": "caçador"
+    },
+    {
+        "instruction": "Traduza a frase 'eu moro na casa amarela' para o Guarani.",
+        "input": "eu moro na casa amarela",
+        "output": "oga iju va'e py ma xee xero."
+    },
+    {
+        "instruction": "Traduza a palavra 'casa de reza' para o Guarani.",
+        "input": "casa de reza",
+        "output": "opy'i"
+    },
+    {
+        "instruction": "Qual é o termo em Guarani para 'raio'?",
+        "input": "raio",
+        "output": "overa"
+    },
+    {
+        "instruction": "Como se diz 'chuva' em Guarani?",
+        "input": "chuva",
+        "output": "oky"
+    },
+    {
+        "instruction": "Qual é a palavra Guarani para 'papagaio'?",
+        "input": "papagaio",
+        "output": "parakau"
+    },
+    {
+        "instruction": "Traduza o termo 'banana' para o Guarani.",
+        "input": "banana",
+        "output": "pakoa"
+    },
+    {
+        "instruction": "Traduza a palavra 'cachimbo' para o Guarani.",
+        "input": "cachimbo",
+        "output": "petyngua"
+    },
+    {
+        "instruction": "Traduza a seguinte frase para o Guarani: 'da laranja se faz suco natural'.",
+        "input": "da laranja se faz suco natural",
+        "output": "narã rykue guima jajapo va'e aroka."
+    },
+    {
+        "instruction": "Explain the cultural significance of the palm tree to the Guaranis.",
+        "input": "Palm tree",
+        "output": "A palmeira é comida típica dos Guaranis, de folha de palmeira se faz ocas, casas."
+    },
+    {
+        "instruction": "Translate the following sentence into Guarani: 'The seal lives in the water and eats fish.'",
+        "input": "The seal lives in the water and eats fish.",
+        "output": "Rovo ma oiko yy py, ha'egui okaru pira re."
+    },
+    {
+        "instruction": "Translate the word 'seal' into Guarani.",
+        "input": "seal",
+        "output": "Rovo"
+    },
+    {
+        "instruction": "Translate the word 'violin' into Guarani.",
+        "input": "violin",
+        "output": "Rave'i"
+    },
+    {
+        "instruction": "Translate the word 'peach' into Guarani.",
+        "input": "peach",
+        "output": "Rurano"
+    },
+    {
+        "instruction": "Translate the word 'feather' into Guarani.",
+        "input": "feather",
+        "output": "Rague"
+    },
+    {
+        "instruction": "Translate the word 'rabbit' into Guarani.",
+        "input": "rabbit",
+        "output": "Tapixi"
+    },
+    {
+        "instruction": "Translate the following sentence into Guarani: 'The rabbit has big eyes and big ears.'",
+        "input": "The rabbit has big eyes and big ears.",
+        "output": "Tapixi ma hexa guaxu haegui inambi guaxu va'e."
+    },
+    {
+        "instruction": "Translate the word 'toucan' into Guarani.",
+        "input": "toucan",
+        "output": "Tukã"
+    },
+    {
+        "instruction": "Translate the word 'ant' into Guarani.",
+        "input": "ant",
+        "output": "Taý"
+    },
+    {
+        "instruction": "Translate the word 'owl' into Guarani.",
+        "input": "owl",
+        "output": "Urukure'a"
+    },
+    {
+        "instruction": "Liste exemplos de palavras com a letra 'U' em guarani.",
+        "input": "",
+        "output": "URU, URUTAU, URUKURE'A, URURA'Y, URUPEN, URUMBIXY, URURO, URU RUPI'A, URUVU, XAMPIREM, UPEPY OIN, UPEPY HO'A."
+    },
+    {
+        "instruction": "Explicar o propósito da criação de galinhas em guarani e português.",
+        "input": "",
+        "output": "URU MA ROGUEREKO RO'U HAGUÃ, HA'EGUI MA ROMBOAGUE HYAKUA. A GENTE CRIA GALINHA PARA COMER E TAMBÉM PARA USAR AS PENAS PARA ARTESANATOS."
+    },
+    {
+        "instruction": "Liste exemplos de palavras com a letra 'V' em guarani.",
+        "input": "",
+        "output": "VAKA, VETIRO, VOKO, VATA HAVE, VATA RAGUE, VARITA, VIXO, VOKO, VOXA, VORIXO, VARAKA, VETIRO, VA'EKUE."
+    },
+    {
+        "instruction": "Descrever a criação de animais em guarani e português.",
+        "input": "",
+        "output": "VIXO'I MA IKUAI KOO YVY PY NHANDERU OMBOJERA VAEKUE. ANIMAIS SÃO CRIAÇÃO DE DEUS NESSA TERRA."
+    },
+    {
+        "instruction": "Liste exemplos de palavras com a letra 'X' em guarani.",
+        "input": "",
+        "output": "XIVI, XANJAU, XARA'U, XAPY'AREI, XAPUKAI, XARAMBI, XEVOI, XEE, XIPA, XIIN, XIGYRE, XINHORA, XO'O, XUXU, XU'U, XONDARO."
+    },
+    {
+        "instruction": "Liste traduções de algumas palavras comuns do português para o guarani, começando com a letra 'X'.",
+        "input": "",
+        "output": "XANJAU - MELÂNCIA, XONDARO - GUERREIRO, XEVOI - CEBOLA, XIGYRE - TATU."
+    },
+    {
+        "instruction": "Descreva um animal que você observou recentemente.",
+        "input": "",
+        "output": "Eu vi um gato correndo atrás de um rato hoje."
+    },
+    {
+        "instruction": "Forneça exemplos de palavras em uma língua indígena e suas traduções.",
+        "input": "",
+        "output": [
+            {
+                "YPE": "PATO"
+            },
+            {
+                "YVYA": "TERRA"
+            },
+            {
+                "YVYRA": "ÁRVORE"
+            },
+            {
+                "YAKÃ": "LAGOA"
+            },
+            {
+                "YVI KUA REMDA": "CEMITÉRIO"
+            }
+        ]
+    },
+    {
+        "instruction": "Traduza a frase para o português: 'YY MA JAREKO KUAA VAERÂ, YY HE'YN REMA NDAJAIKOI.'",
+        "input": "",
+        "output": "A ÁGUA É VIDA, DEVEMOS CUIDAR DA ÁGUA."
+    },
+    {
+        "instruction": "Liste alguns números em uma língua indígena e suas traduções.",
+        "input": "",
+        "output": [
+            {
+                "PETEĨ": "UM"
+            },
+            {
+                "MOKOĨ": "DOIS"
+            },
+            {
+                "MBOAPY": "TRÊS"
+            },
+            {
+                "IRUNDY": "QUATRO"
+            },
+            {
+                "PETEĨ PO": "CINCO"
+            },
+            {
+                "PETEĨ PO IRUNDY": "NOVE"
+            },
+            {
+                "MOKOĨ PO": "DEZ"
+            }
+        ]
+    },
+    {
+        "instruction": "Traduza as seguintes cores para uma língua indígena: amarelo, azul, branco, vermelho, preto, verde, laranja, rosa.",
+        "input": "",
+        "output": [
+            {
+                "IJU": "AMARELO"
+            },
+            {
+                "HOVY": "AZUL"
+            },
+            {
+                "XIIN": "BRANCO"
+            },
+            {
+                "PYTÃ": "VERMELHO"
+            },
+            {
+                "HUUN": "PRETO"
+            },
+            {
+                "HOVY": "VERDE"
+            },
+            {
+                "NARÃ": "LARANJA"
+            },
+            {
+                "PITANGY": "ROSA"
+            }
+        ]
+    }
+]

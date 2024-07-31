@@ -1,0 +1,792 @@
+[
+    {
+        "instruction": "Defina o termo 'Aaru' em Tupi-Guarani.",
+        "input": "Aaru",
+        "output": "Espécie de bolo preparado com um tatu moqueado, triturado em pilão e misturado com farinha de mandioca."
+    },
+    {
+        "instruction": "O que significa 'Abá' no dicionário de Tupi-Guarani?",
+        "input": "Abá",
+        "output": "Avá, auá, ava, aba - homem, gente, pessoa, ser humano, índio."
+    },
+    {
+        "instruction": "Explique o que é 'Ababá'.",
+        "input": "Ababá",
+        "output": "Uma tribo indígena tupi-guarani que habitava as cabeceiras do rio Corumbiara (MT)."
+    },
+    {
+        "instruction": "Identifique o que é 'Abacataia'.",
+        "input": "Abacataia",
+        "output": "Peixe de água salgada, parecido com o peixe-galo; também conhecido como abacutaia, abacatuaia."
+    },
+    {
+        "instruction": "O que é um 'Abaçaí'?",
+        "input": "Abaçaí",
+        "output": "Pessoa que espreita, persegue; gênio perseguidor de índios; espírito maligno que perseguia os índios, enlouquecendo-os."
+    },
+    {
+        "instruction": "Diga o significado de 'Abaetê'.",
+        "input": "Abaetê",
+        "output": "Pessoa boa, pessoa de palavra, pessoa honrada; também conhecido como abaeté."
+    },
+    {
+        "instruction": "Explique o termo 'Abaetetuba' e seu significado no Tupi-Guarani.",
+        "input": "Abaetetuba",
+        "output": "Lugar cheio de gente boa."
+    },
+    {
+        "instruction": "Defina 'Abaité'.",
+        "input": "Abaité",
+        "output": "Gente ruim, gente repulsiva, gente estranha."
+    },
+    {
+        "instruction": "Descreva o termo 'Abanã'.",
+        "input": "Abanã",
+        "output": "(Gente de) cabelo forte ou cabelo duro."
+    },
+    {
+        "instruction": "O que significa 'Abaquar'?",
+        "input": "Abaquar",
+        "output": "Senhor (chefe) do voo; homem que voa (aba, ara, jabaquara, iabaquara)."
+    },
+    {
+        "instruction": "Descreva o significado e uso do termo 'Amanajé'.",
+        "input": "",
+        "output": "Amanajé significa 'mensageiro'."
+    },
+    {
+        "instruction": "Qual é o significado de 'Amanara'?",
+        "input": "",
+        "output": "'Amanara' significa 'dia chuvoso'."
+    },
+    {
+        "instruction": "O que significa 'Amanda' na etimologia indígena?",
+        "input": "",
+        "output": "'Amanda' deriva de 'amana', que significa 'chuva'."
+    },
+    {
+        "instruction": "Defina o termo 'Amandy'.",
+        "input": "",
+        "output": "'Amandy' significa 'dia de chuva'."
+    },
+    {
+        "instruction": "Explique o que é 'Amapá' e os seus usos.",
+        "input": "",
+        "output": "'Amapá' refere-se a uma árvore da família das apocináceas, de madeira útil. Sua casca amarga exsuda um látex medicinal usado no tratamento da asma, bronquite e afecções pulmonares, além de ter propriedades resolutivas e cicatrizantes para uso externo em golpes e feridas."
+    },
+    {
+        "instruction": "O que é 'Ama-tirí'?",
+        "input": "",
+        "output": "'Ama-tirí' significa 'raio' ou 'corisco'."
+    },
+    {
+        "instruction": "Qual é o significado de 'Amboré'?",
+        "input": "",
+        "output": "'Amboré' remete à tribo 'aimoré'."
+    },
+    {
+        "instruction": "Descreva o termo 'Amerê'.",
+        "input": "",
+        "output": "'Amerê' significa 'fumaça'."
+    },
+    {
+        "instruction": "Qual é o significado de 'Ami'?",
+        "input": "",
+        "output": "'Ami' é uma aranha que não tece teia."
+    },
+    {
+        "instruction": "Explique o que significa 'Anamí'.",
+        "input": "",
+        "output": "'Anamí' refere-se a uma espécie de árvore."
+    },
+    {
+        "instruction": "Qual é o significado de 'Ananã'?",
+        "input": "",
+        "output": "'Ananã' significa 'fruta cheirosa' e refere-se ao 'ananás'."
+    },
+    {
+        "instruction": "O que significa 'Anauê'?",
+        "input": "",
+        "output": "'Anauê' significa 'salve' ou 'olá'."
+    },
+    {
+        "instruction": "Qual é a origem de 'Andirá'?",
+        "input": "",
+        "output": "'Andirá' significa 'morcego'."
+    },
+    {
+        "instruction": "Explique o significado do termo 'Apuama'",
+        "input": "",
+        "output": "'Apuama' significa 'andejo', 'que não para em casa', 'veloz', ou 'que tem correnteza'."
+    },
+    {
+        "instruction": "Qual é o significado de 'Aram'?",
+        "input": "",
+        "output": "'Aram' significa 'sol'."
+    },
+    {
+        "instruction": "Descreva o termo 'Arapuca'.",
+        "input": "",
+        "output": "'Arapuca' é uma armadilha para aves, consistindo numa pirâmide de gravetos (pequenos paus) superpostos."
+    },
+    {
+        "instruction": "Provide a definition for the term 'Ati' in the context of the text.",
+        "input": "",
+        "output": "Ati: gaivota pequena (atiati)."
+    },
+    {
+        "instruction": "Provide a definition for the term 'Atiati' in the context of the text.",
+        "input": "",
+        "output": "Atiati: gaivota grande (ati)."
+    },
+    {
+        "instruction": "List all the meanings associated with the term 'Auá' in the context of the text.",
+        "input": "",
+        "output": "Auá: avá, abá, homem, mulher, gente, índio."
+    },
+    {
+        "instruction": "List all the meanings associated with the term 'Auati' in the context of the text.",
+        "input": "",
+        "output": "Auati: gente loura, milho, que tem cabelos louros (como o milho), abati, avati."
+    },
+    {
+        "instruction": "What term is described as 'caranguejo'?",
+        "input": "",
+        "output": "Aauçá: uaçá, caranguejo, auçá, guaiá."
+    },
+    {
+        "instruction": "Provide all meanings for the term 'Avá' in the context of the text.",
+        "input": "",
+        "output": "Avá: abá, auá, homem, índio."
+    },
+    {
+        "instruction": "Describe the term 'avanheenga' in the context of the text.",
+        "input": "",
+        "output": "avanheenga: awañene, língua de gente, a língua que as pessoas falam, ao contrário dos animais, a língua geral dos tupis-guaranis, abanheenga, abanheém."
+    },
+    {
+        "instruction": "What does the term 'Avaré' encompass?",
+        "input": "",
+        "output": "Avaré: awa'ré, abaré, amigo, missionário, catequista (abaruna, abuna)."
+    },
+    {
+        "instruction": "List all meanings associated with 'Avati'.",
+        "input": "",
+        "output": "Avati: gente loura, milho, abati, auati."
+    },
+    {
+        "instruction": "Explain the term 'Awañene' in the context given.",
+        "input": "",
+        "output": "Awañene: abanheém, língua de gente, a língua que as pessoas falam, ao contrário dos animais, a língua geral dos tupis-guaranis, abanheenga, avanheenga."
+    },
+    {
+        "instruction": "What does the term 'Awa' mean?",
+        "input": "",
+        "output": "Awa: redondo, ava."
+    },
+    {
+        "instruction": "What is the synonym for 'Awaré'?",
+        "input": "",
+        "output": "Awaré: avaré."
+    },
+    {
+        "instruction": "Provide the meaning of the term 'Aymberê'.",
+        "input": "",
+        "output": "Aymberê: lagartixa."
+    },
+    {
+        "instruction": "What does 'Ayty' mean?",
+        "input": "",
+        "output": "Ayty: ninho (parati)."
+    },
+    {
+        "instruction": "Describe the term 'Ayuru'.",
+        "input": "",
+        "output": "Ayuru: ajuru, árvore de madeira dura, com frutos de polpa comestível."
+    },
+    {
+        "instruction": "List all the meanings for the term 'bapo'.",
+        "input": "",
+        "output": "bapo: maracá, mbaraká, chocalho usado em solenidades, maracaxá, xuatê, cascavel."
+    },
+    {
+        "instruction": "What does 'baquara' mean?",
+        "input": "",
+        "output": "baquara: mbaekwara, biquara, sabedor de coisas, esperto, sabido, vivo (nhambiquara)."
+    },
+    {
+        "instruction": "Provide the definition for 'biquara'.",
+        "input": "",
+        "output": "biquara: baquara, mbaekwara."
+    },
+    {
+        "instruction": "Define the term 'Caá'.",
+        "input": "",
+        "output": "Caá: kaá, mato, folha."
+    },
+    {
+        "instruction": "Explain the term 'Caapuã'.",
+        "input": "",
+        "output": "Caapuã: aquele ou aquilo que mora (vive) no mato, caipora, kaapora."
+    },
+    {
+        "instruction": "What does 'Caba' refer to?",
+        "input": "",
+        "output": "Caba: marimbondo, vespa (v. cacira, laurare)."
+    },
+    {
+        "instruction": "Describe the term 'Caboclo' and its associated meanings.",
+        "input": "",
+        "output": "Caboclo: kariboka, procedente do branco, mestiço de branco com índio, cariboca, carijó, antiga denominação do indígena, caburé, tapuio, personificação e divinização de tribos indígenas segundo o modelo dos cultos populares de origem africana, paramentada, porém, com os trajes cerimoniais dos antigos tupis (folcl.), atualmente, designação genérica dos moradores das margens dos rios da Amazônia."
+    },
+    {
+        "instruction": "What is the meaning of 'Caburé (tupi)'?",
+        "input": "",
+        "output": "Caburé (tupi): kaburé, cafuzo, caboclo, caipira, indivíduo atarracado, achaparrado."
+    },
+    {
+        "instruction": "Provide the definition for 'Cacira'.",
+        "input": "",
+        "output": "Cacira: vespa de ferroada dolorosa."
+    },
+    {
+        "instruction": "Describe the term 'caingangue'.",
+        "input": "",
+        "output": "caingangue: grupo indígena da região Sul do Brasil, já integrado na sociedade nacional, cuja língua era outrora considerada como jê, e que hoje representa uma família própria, coroado, camé, xoclengues."
+    },
+    {
+        "instruction": "What does 'Caipora' mean?",
+        "input": "",
+        "output": "Caipora: caapora, kaa'pora."
+    },
+    {
+        "instruction": "Define the term 'Camb'.",
+        "input": "",
+        "output": "Camb: peito, seio, teta."
+    },
+    {
+        "instruction": "What is the meaning of 'Camé (jê)'?",
+        "input": "",
+        "output": "Camé (jê): subtribo do grupo caingangue."
+    },
+    {
+        "instruction": "Explain the term 'Camuá'.",
+        "input": "",
+        "output": "Camuá: palmeira de caule flexível, cheia de pelos espinhosos."
+    },
+    {
+        "instruction": "What does the term 'Camu-camu' refer to?",
+        "input": "",
+        "output": "Camu-camu: fruta pouco conhecida que possui grande quantidade de vitamina C, e cuja produção vem substituindo, no Acre, a exploração dos seringais."
+    },
+    {
+        "instruction": "Describe the term 'Canoa'.",
+        "input": "",
+        "output": "Canoa: embarcação a remo, esculpida no tronco de uma árvore; uma das primeiras palavras indígenas registradas pelos descobridores espanhóis; montaria (designação atual usada pelos caboclos da Amazônia); (ubá)."
+    },
+    {
+        "instruction": "What does 'Capim' mean?",
+        "input": "",
+        "output": "Capim: caapii, mato fino, folha delgada."
+    },
+    {
+        "instruction": "Define the term 'Carapeba'.",
+        "input": "",
+        "output": "Carapeba: tipo de peixe, acarapeba, acarapeva, acarapéua (acará, peba)."
+    },
+    {
+        "instruction": "Provide the meaning of 'Cari'.",
+        "input": "",
+        "output": "Cari: o homem branco, a raça branca."
+    },
+    {
+        "instruction": "Describe the term 'Cariboca'.",
+        "input": "",
+        "output": "Cariboca: kari'boka, caboclo, procedente do branco, mestiço de branco com índio, curiboca, carijó, caburé, tapuio."
+    },
+    {
+        "instruction": "Explain the term 'Carijó'.",
+        "input": "",
+        "output": "Carijó: procedente do branco, mestiço, como o galináceo de penas salpicadas de branco e preto, caboclo, antiga denominação da tribo indígena guarani, habitante da região situada entre a lagoa dos Patos (RS) e Cananéia (SP), carió, cário, cariboca, curiboca, caburá, tapuio."
+    },
+    {
+        "instruction": "What term is synonymous with 'Carijó'?",
+        "input": "",
+        "output": "Carió: procedente do branco, caboclo, antiga denominação."
+    },
+    {
+        "instruction": "Explique o significado da palavra 'Carioca'.",
+        "input": "Carioca",
+        "output": "Carioca vem do termo kari'oka, que significa 'casa do branco' em uma língua indígena."
+    },
+    {
+        "instruction": "Descreva a tribo indígena Guarani e sua localização.",
+        "input": "Tribo indígena Guarani",
+        "output": "A tribo indígena Guarani habita a região situada entre a Lagoa dos Patos (RS) e Cananéia (SP). Eles são parte da grande nação tupi-guarani e são encontrados desde o Centro-Oeste brasileiro até o norte da Argentina."
+    },
+    {
+        "instruction": "Defina o termo 'Curumim'.",
+        "input": "Curumim",
+        "output": "Curumim significa 'menino' na língua indígena."
+    },
+    {
+        "instruction": "Informe o significado da palavra 'Cuica'.",
+        "input": "Cuica",
+        "output": "Cuica pode significar uma espécie de rato grande com o rabo muito comprido, semelhante ao canguru, ou um instrumento de percussão feito com um pequeno cilindro em uma de cujas bocas se prende uma pele bem estirada."
+    },
+    {
+        "instruction": "Descreva a tribo indígena Deni e sua localização.",
+        "input": "Tribo indígena Deni",
+        "output": "A tribo indígena Deni é aruaque e vive pelos igarapés do vale do rio Cunhuã, entre as desembocaduras dos rios Xiruã e Pauini, no Amazonas. Eles somam cerca de 300 pessoas e os primeiros contatos com a sociedade nacional ocorreram na década de 60."
+    },
+    {
+        "instruction": "Explique o termo 'Guaratinguetá'.",
+        "input": "Guaratinguetá",
+        "output": "Guaratinguetá significa 'reunião de pássaros brancos' em uma língua indígena."
+    },
+    {
+        "instruction": "Explique o significado de 'Iracema'.",
+        "input": "Iracema",
+        "output": "Iracema significa 'lábios de mel' na língua indígena, derivado dos termos ira (mel) e tembé (lábios)."
+    },
+    {
+        "instruction": "Descreva a tribo indígena Galibi e sua localização.",
+        "input": "Tribo indígena Galibi",
+        "output": "A tribo indígena Galibi habita a margem esquerda do alto rio Uaçá, no Amapá."
+    },
+    {
+        "instruction": "Defina o termo 'Ibi'.",
+        "input": "Ibi",
+        "output": "Ibi significa 'terra' em uma língua indígena."
+    },
+    {
+        "instruction": "Explique o significado de 'Itaúna'.",
+        "input": "Itaúna",
+        "output": "Itaúna significa 'pedra preta' em uma língua indígena, derivado dos termos ita (pedra) e una (preta)."
+    },
+    {
+        "instruction": "Defina o termo 'Iviturui' e seus significados em contexto geográfico.",
+        "input": "",
+        "output": "Iviturui refere-se a 'serro frio' ou 'frio na parte mais alta de uma serra'."
+    },
+    {
+        "instruction": "Explique a palavra 'Iwa' e suas variações em contextos diferentes.",
+        "input": "",
+        "output": "'Iwa' possui variações como 'iva', 'iua', 'iba' e pode significar 'ruim', 'feio' ou 'imprestável'. Em particular, a palavra 'paraíba' está associada a 'Iwa'."
+    },
+    {
+        "instruction": "Descreva o significado e origem do nome 'Jabaquara'.",
+        "input": "",
+        "output": "Jabaquara significa 'rio do senhor do vôo', derivado das palavras 'iabaquara' ou 'abequar'."
+    },
+    {
+        "instruction": "Qual o significado cultural e biológico de 'Jacamim'?",
+        "input": "",
+        "output": "'Jacamim' se refere a uma ave ou a um gênio, conhecido como pai de muitas estrelas, derivada do nome 'Yacamim'."
+    },
+    {
+        "instruction": "Explique o que é uma 'Jaçanã'.",
+        "input": "",
+        "output": "'Jaçanã' é uma ave que possui patas sob a forma de nadadeiras, similar às dos patos."
+    },
+    {
+        "instruction": "Defina 'Jacaúna'.",
+        "input": "",
+        "output": "'Jacaúna' se refere a um indivíduo de peito negro."
+    },
+    {
+        "instruction": "Descreva a ave 'Jacu'.",
+        "input": "",
+        "output": "'Jacu', derivado de 'yaku', é uma espécie de ave vegetariana silvestre, semelhante a galinhas, perus e faisões."
+    },
+    {
+        "instruction": "Explique o significado de 'Jaguar'.",
+        "input": "",
+        "output": "'Jaguar', originário da palavra 'yawara', significa 'cão', 'lobo' ou 'guará'."
+    },
+    {
+        "instruction": "Qual o significado de 'Jaguaracambé'?",
+        "input": "",
+        "output": "'Jaguaracambé' significa 'cão de cabeça branca', composto pelas palavras 'ya'wara' (cão), 'a'kãg' (cabeça) e 'peba' (branco). Também conhecido como aracambé ou cachorro-do-mato-vinagre."
+    },
+    {
+        "instruction": "Dê o significado de 'Japira'.",
+        "input": "",
+        "output": "'Japira' significa 'mel' e também pode ser referida como 'ira'."
+    },
+    {
+        "instruction": "Explique o que é 'Japuçá'.",
+        "input": "",
+        "output": "'Japuçá' é uma espécie de macaco, também conhecido como 'iapuçá', 'jauá' ou 'sauá'."
+    },
+    {
+        "instruction": "Defina 'Jauá'.",
+        "input": "",
+        "output": "'Jauá' é outra denominação para a espécie de macaco 'japuçá' ('iapuçá', 'sauá')."
+    },
+    {
+        "instruction": "Descreva a tribo 'Javaé'.",
+        "input": "",
+        "output": "'Javaé' é uma tribo indígena que habita o interior da ilha do Bananal, aparentada com os carajás na mesma região."
+    },
+    {
+        "instruction": "Explique a cerimônia chamada 'Javari'.",
+        "input": "",
+        "output": "'Javari' é uma competição cerimonial desportiva de caráter religioso."
+    },
+    {
+        "instruction": "Defina o grupo étnico 'Jé'.",
+        "input": "",
+        "output": "'Jé' é um grupo etnográfico ao qual pertence a maioria dos tapuias. Também conhecido como 'jê' ou 'gê'."
+    },
+    {
+        "instruction": "Descreva o significado de 'Jeru'.",
+        "input": "",
+        "output": "'Jeru', derivado de 'ayu'ru', é uma árvore de madeira dura com frutos de polpa comestível, e também refere-se a 'papagaio'."
+    },
+    {
+        "instruction": "Explique o uso do termo 'Ju'.",
+        "input": "",
+        "output": "'Ju', também escrito como 'yu' ou 'iu', significa 'espinho', especialmente associado à planta 'jurumbeba'."
+    },
+    {
+        "instruction": "Descreva a palmeira 'Juçara'.",
+        "input": "",
+        "output": "'Juçara' é uma palmeira fina e alta típica da Mata Atlântica, conhecida pelo miolo branco do qual se extrai o palmito. Também chamada de 'piná', 'iuçara' ou 'açaí'."
+    },
+    {
+        "instruction": "Quem são os 'Jumana'?",
+        "input": "",
+        "output": "'Jumana' é uma tribo do grupo aruaque que habita a região dos rios Japurá e Solimões na Amazônia Ocidental. Também conhecida como 'ximana' ou 'xumana'."
+    },
+    {
+        "instruction": "Defina 'Jumbeba'.",
+        "input": "",
+        "output": "'Jumbeba' refere-se a um cacto ou a uma espécie particular de cacto, também conhecido como 'jurumbeba' (ju-mbeb)."
+    },
+    {
+        "instruction": "Explique o significado de 'Jupuçá'.",
+        "input": "",
+        "output": "'Jupuçá', também conhecido como 'iapuçá' ou 'japuçá', refere-se a uma espécie de macaco."
+    },
+    {
+        "instruction": "Descreva a árvore 'Juru'.",
+        "input": "",
+        "output": "'Juru' refere-se a uma árvore de madeira dura com frutos de polpa comestível, também chamada de 'ajeru', 'jeru' ou 'ajuru'."
+    },
+    {
+        "instruction": "O que significa 'Jurubatiba'?",
+        "input": "",
+        "output": "'Jurubatiba' refere-se a um lugar cheio de plantas espinhosas, derivado das palavras 'ju', 'ru', 'uba' e 'tiba'."
+    },
+    {
+        "instruction": "Defina 'Jurubeba'.",
+        "input": "",
+        "output": "'Jurubeba' é uma planta espinhosa cujo fruto é considerado medicinal. O fruto é normalmente verde, perfeitamente redondo e muito amargo, pouco maior que uma ervilha. Também chamada de 'jurumbeba'."
+    },
+    {
+        "instruction": "Explique o termo 'Jurumbeba'.",
+        "input": "",
+        "output": "'Jurumbeba' refere-se a uma folha chata com espinhos e pode ser um tipo de cacto. Também conhecida como 'jumbeba'."
+    },
+    {
+        "instruction": "Defina 'Kaá'.",
+        "input": "",
+        "output": "'Kaá', também conhecido como 'caá', significa 'mato'."
+    },
+    {
+        "instruction": "Quem é 'Kaapora'?",
+        "input": "",
+        "output": "'Kaapora', também chamado de 'caapora' ou 'caipora', refere-se a quem vive no mato."
+    },
+    {
+        "instruction": "Explique o significado de 'Kabu'ré'.",
+        "input": "",
+        "output": "'Kabu'ré', conhecido como 'caburé', refere-se a um indivíduo atarracado ou achaparrado, que pode ser um cafuzo, caboclo ou caipira."
+    },
+    {
+        "instruction": "O que significa 'Kamby'?",
+        "input": "",
+        "output": "'Kamby' significa 'leite' ou 'líquido do seio'."
+    },
+    {
+        "instruction": "Quem é 'Kaluana'?",
+        "input": "",
+        "output": "'Kaluana' é um lutador de uma lenda da tribo Kamaiurá."
+    },
+    {
+        "instruction": "Descreva a tribo 'Kamaiurá'.",
+        "input": "",
+        "output": "'Kamaiurá', também conhecida como 'camaiurá', é uma tribo indígena tupi que vive na região dos formadores do Xingu, entre a lagoa Ipavu e o rio Culuene no Mato Grosso."
+    },
+    {
+        "instruction": "Explique o significado de 'Karioka'.",
+        "input": "",
+        "output": "'Karioka', derivado de 'carioca', significa 'casa do branco'."
+    },
+    {
+        "instruction": "Defina 'Ki'sé'.",
+        "input": "",
+        "output": "'Ki'sé', também conhecido como 'quicé', 'quicê', 'quecé' ou 'quecê', refere-se a uma faca velha e/ou enferrujada e/ou cheia de dentes e/ou sem cabo."
+    },
+    {
+        "instruction": "O que é 'Ku'ika'?",
+        "input": "",
+        "output": "'Ku'ika', também conhecido como 'cuica', refere-se a uma espécie de rato grande com rabo muito comprido, semelhante ao canguru, ou a um instrumento de percussão."
+    },
+    {
+        "instruction": "O que significa 'Kurumí'?",
+        "input": "",
+        "output": "'Kurumí', conhecido como 'curumim', significa 'menino'."
+    },
+    {
+        "instruction": "Descreva o termo 'Laurare (karajá)'.",
+        "input": "",
+        "output": "'Laurare' (karajá) refere-se a um marimbondo."
+    },
+    {
+        "instruction": "Explique 'Lauré (pauetê-nanbiquara)'.",
+        "input": "",
+        "output": "'Lauré' (pauetê-nanbiquara) refere-se a uma arara vermelha."
+    },
+    {
+        "instruction": "O que é 'Macaba'?",
+        "input": "",
+        "output": "'Macaba' é o fruto da macaúba, um fruto comestível que é um tipo de coco."
+    },
+    {
+        "instruction": "Defina 'Macaúba'.",
+        "input": "",
+        "output": "'Macaúba', decorrente de 'ma'ká ï'ba', é a árvore que produz o fruto comestível macaba."
+    },
+    {
+        "instruction": "Explique o termo 'Manau'.",
+        "input": "",
+        "output": "'Manau' refere-se a uma tribo do ramo aruaque que habitava a região do rio Negro."
+    },
+    {
+        "instruction": "Defina a palavra 'Manauara'.",
+        "input": "",
+        "output": "Manauara: natural de, residente em, ou relativo a Manaus (capital do estado do Amazonas) - manauense."
+    },
+    {
+        "instruction": "Explique o que é 'Mairá'.",
+        "input": "",
+        "output": "Mairá: uma das espécies de mandioca, típica da região Norte; mandiocaçu; mandioca grande (mandioca, açu)."
+    },
+    {
+        "instruction": "Quem é Maní na cultura indígena brasileira?",
+        "input": "",
+        "output": "Maní: deusa da mandioca, amendoim (maniva)."
+    },
+    {
+        "instruction": "Explique a origem da palavra 'Manioca'.",
+        "input": "",
+        "output": "Manioca: mandioca (a deusa Maní, enterrada na própria oca, gerou a raiz alimentícia). (v. mani, oca, mandioca, mairá)"
+    },
+    {
+        "instruction": "O que é Maniva e onde é utilizada?",
+        "input": "",
+        "output": "Maniva: tolete ou folha da planta da mandioca; usa-se na alimentação da região Norte, especialmente no Pará. (maniua, mairá)"
+    },
+    {
+        "instruction": "Qual é a principal raiz alimentícia dos índios brasileiros mencionada no texto?",
+        "input": "",
+        "output": "Mandioca: aipim, macaxeira, raiz que é principal alimento dos índios brasileiros (v. manioca)."
+    },
+    {
+        "instruction": "Descreva o objeto 'Maracá'.",
+        "input": "",
+        "output": "Maracá: mbaraká - chocalho usado em solenidades - bapo - maracaxá - xuatê - cascavel."
+    },
+    {
+        "instruction": "Quais são algumas das variantes de nome para a espécie de macaco 'Massau'?",
+        "input": "",
+        "output": "Massau: uma das espécies de macaco, pequeno e de rabo comprido, comum na região amazônica - sa'wi - sagüim - sauim - soim - sonhim - sagüi - tamari - xauim - espécie de mico."
+    },
+    {
+        "instruction": "Explique o conceito de 'Moponga' ou 'Mu'põga'.",
+        "input": "",
+        "output": "Moponga: mu'põga - Pescaria em que se bate na água, com uma vara ou com a mão, para que os peixes sejam desviados para uma armadilha - mupunga - batição."
+    },
+    {
+        "instruction": "O que é um 'Mutirão' e como é chamado em tupi?",
+        "input": "",
+        "output": "Mutirão: motirõ - reunião para fins de colheita ou construção (ajuda)."
+    },
+    {
+        "instruction": "Defina 'Nheengatu'.",
+        "input": "",
+        "output": "Nheengatu: nhegatu - língua boa - língua fácil de ser entendida (pelos tupis)."
+    },
+    {
+        "instruction": "Quem são os 'Oapixana' e quais as outras variações do nome?",
+        "input": "",
+        "output": "Oapixana: tribo do ramo aruaque do alto rio Branco (RR), nas fronteiras com a Guiana - vapixiana - vapixana - uapixana - wapixana - vapidiana - oapina."
+    },
+    {
+        "instruction": "Qual o significado do termo 'Ocara' e seu aumentativo?",
+        "input": "",
+        "output": "Ocara: praça ou centro de taba, terreiro da aldeia (v. oca, manioca, ocaruçu). Ocaruçu: praça grande, aumentativo de ocara (v. açu, ocara)."
+    },
+    {
+        "instruction": "O que se entende por 'Pará (1)' e 'Pará (2)'?",
+        "input": "",
+        "output": "Pará (1): rio. Pará (2): prefixo utilizado no nome de diversas plantas."
+    },
+    {
+        "instruction": "Quem são os 'Nanbiquara'?",
+        "input": "",
+        "output": "Nanbiquara: fala inteligente, de gente esperta - tribo do Mato Grosso (pauetê-nanbiquara - baquara - biquara)."
+    },
+    {
+        "instruction": "Explique o que é 'Pauá' em tupi.",
+        "input": "",
+        "output": "Pauá (tupi): pawa - pava - tudo - muito (no sentido de grande extensão)."
+    },
+    {
+        "instruction": "Quais são os outros nomes para 'Peba'?",
+        "input": "",
+        "output": "Peba: branco - branca - tinga - peva - peua - pewa."
+    },
+    {
+        "instruction": "Qual é o significado de 'Pitiguar'?",
+        "input": "",
+        "output": "Pitiguar: - potiguar."
+    },
+    {
+        "instruction": "Descreva o significado e uso da palavra 'Puã'.",
+        "input": "Puã",
+        "output": "Puã significa redondo, também é referido como irapuã."
+    },
+    {
+        "instruction": "Explique o que é uma 'Puçá'.",
+        "input": "Puçá",
+        "output": "Puçá é uma armadilha usada para capturar peixes e outros animais aquáticos."
+    },
+    {
+        "instruction": "Descreva o que é 'Puçanga'.",
+        "input": "Puçanga",
+        "output": "Puçanga refere-se a uma mezinha ou remédio caseiro, tradicionalmente receitado pelos ajés."
+    },
+    {
+        "instruction": "Explique o que é um 'Quecé'.",
+        "input": "Quecé",
+        "output": "Quecé é uma faca velha e/ou enferrujada, cheia de dentes ou sem cabo, também conhecida como ki'sé, quicê ou quecê."
+    },
+    {
+        "instruction": "Defina 'Quibaana'.",
+        "input": "Quibaana",
+        "output": "Quibaana é uma tribo da região Norte do Brasil."
+    },
+    {
+        "instruction": "Explique o significado de 'Raira'.",
+        "input": "Raira",
+        "output": "Raira significa filho, também usado a palavra membira."
+    },
+    {
+        "instruction": "Descreva quem é 'Rudá'.",
+        "input": "Rudá",
+        "output": "Rudá é o deus do amor, para o qual as índias cantavam uma oração ao anoitecer."
+    },
+    {
+        "instruction": "Explique o que é 'Ru'.",
+        "input": "Ru",
+        "output": "Ru refere-se a folha, como a de jurubeba."
+    },
+    {
+        "instruction": "Defina 'Sauá'.",
+        "input": "Sauá",
+        "output": "Sauá é uma das espécies de macacos, também conhecido como iapuçá, japuçá, jupuçá, saá ou sawá."
+    },
+    {
+        "instruction": "Descreva o significado de 'Surui'.",
+        "input": "Surui",
+        "output": "Surui é uma tribo do parque do Aripuanã na região do Madeira, Rondônia."
+    },
+    {
+        "instruction": "Explique o termo 'Tapuia'.",
+        "input": "Tapuia",
+        "output": "Tapuia ou tapuio é uma designação antiga dada pelos tupis aos gentios inimigos. Pode significar índio bravio, mestiço de índio, índio manso (AM), ou qualquer mestiço trigueiro de cabelos lisos e negros (BA), também conhecido como caboclo."
+    },
+    {
+        "instruction": "Explique o termo 'Tembé'.",
+        "input": "Tembé",
+        "output": "Tembé refere-se aos lábios, como em Iracema ou iratembé."
+    },
+    {
+        "instruction": "Descreva o significado de 'Timburé'.",
+        "input": "Timburé",
+        "output": "Timburé é uma espécie de peixe de rio, caracterizado por manchas e/ou faixas pretas, também conhecido como ximburé ou timburê."
+    },
+    {
+        "instruction": "Explique o que significa 'Tinga'.",
+        "input": "Tinga",
+        "output": "Tinga significa branco ou branca, e também pode ser associado a peba como ibitinga."
+    },
+    {
+        "instruction": "Descreva o significado de 'Tupí' (1).",
+        "input": "Tupi (1)",
+        "output": "Tupi refere-se ao povo indígena que habitava o Norte e Centro do Brasil, até o rio Amazonas e até o litoral."
+    },
+    {
+        "instruction": "Explique o termo 'Tupi' (2).",
+        "input": "Tupi (2)",
+        "output": "Tupi é um dos principais troncos linguísticos da América do Sul, pertencente à família tupi-guarani."
+    },
+    {
+        "instruction": "Defina 'Uaçá'.",
+        "input": "Uaçá",
+        "output": "Uaçá refere-se a um caranguejo, também conhecido como auçá ou guaiá."
+    },
+    {
+        "instruction": "Descreva o significado de 'Uapixana'.",
+        "input": "Uapixana",
+        "output": "Uapixana é uma tribo do ramo aruaque do alto Rio Branco (RR), nas fronteiras com a Guiana. Também conhecida como vapixiana, vapixana, vapidiana, wapixana, oapixana ou oapina."
+    },
+    {
+        "instruction": "Defina 'Ubá'.",
+        "input": "Ubá",
+        "output": "Ubá é uma canoa geralmente feita de uma só peça de madeira, ou a árvore usada para fazer canoas."
+    },
+    {
+        "instruction": "Descreva o significado de 'Una'.",
+        "input": "Una",
+        "output": "Una significa preto ou preta."
+    },
+    {
+        "instruction": "Explique o que é 'Urissanê'.",
+        "input": "Urissanê",
+        "output": "Urissanê refere-se a um vagalume, também conhecido como uaná."
+    },
+    {
+        "instruction": "Descreva a tribo 'Wapixana'.",
+        "input": "Wapixana",
+        "output": "Wapixana é uma tribo do ramo aruaque do alto Rio Branco (RR), nas fronteiras com a Guiana. Também conhecida como vapixiana, vapixana, uapixana, vapidiana, oapixana ou oapina."
+    },
+    {
+        "instruction": "Descreva uma tribo indígena do Brasil.",
+        "input": "Xavante",
+        "output": "A tribo Xavante é uma tribo indígena pertencente à família linguística jê e que, junto com os xerentes, constitui o maior grupo dos acuéns. Eles ocupam uma extensa área, limitada pelos rios Culuene e das Mortes, no Mato Grosso."
+    },
+    {
+        "instruction": "O que significa 'yawara' em tupi?",
+        "input": "",
+        "output": "Em tupi, 'yawara' significa jaguar, cão, cachorro, lobo, gato ou onça."
+    },
+    {
+        "instruction": "Explique o que é 'yasaí'.",
+        "input": "",
+        "output": "Yasaí é outra palavra para açaí, descrevendo a fruta como um coquinho pequeno e amarronzado que cresce em cachos no açaizeiro. O açaizeiro é uma palmeira com tronco de pequeno diâmetro e folhas finas que também produz palmito."
+    },
+    {
+        "instruction": "O que é uma 'yara' na mitologia brasileira?",
+        "input": "",
+        "output": "Na mitologia brasileira, 'yara' é conhecida como a deusa das águas, mãe d'água, ou senhora das águas. É uma lenda sobre uma mulher que mora no fundo dos rios."
+    },
+    {
+        "instruction": "Nomeie algumas espécies de macaco encontradas na região amazônica.",
+        "input": "",
+        "output": "Algumas espécies de macaco encontradas na região amazônica incluem o xauim (também conhecido como sagüim, sauim, soim, sonhim, massau, tamari e sagüi), e o guariba."
+    }
+]
